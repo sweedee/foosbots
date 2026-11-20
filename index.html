@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#16161d" />
+<title>FoosBots</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>" />
+<script>
+  // Minimal stand-in for the Dynatrace platform runtime so Strato runs standalone.
+  window.dtRuntime = {
+    userPreferences: {
+      getTheme: function () { return 'dark'; },
+      getLanguage: function () { return 'en'; },
+      getRegionalFormat: function () { return 'en-US'; },
+      getTimezone: function () { return Intl.DateTimeFormat().resolvedOptions().timeZone; }
+    },
+    appEnvironment: {
+      getAppId: function () { return 'foosbots'; },
+      getAppName: function () { return 'FoosBots'; },
+      getAppVersion: function () { return '1.0.0'; },
+      getEnvironmentId: function () { return 'local'; },
+      getEnvironmentUrl: function () { return location.origin; }
+    }
+  };
+</script>
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.tsx"></script>
+</body>
+</html>

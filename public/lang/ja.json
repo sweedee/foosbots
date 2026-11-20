@@ -1,0 +1,7499 @@
+{
+  "+1GjcNJdKJiZg6v/": [
+    {
+      "type": 0,
+      "value": "Package versions"
+    }
+  ],
+  "+8N30Kx6cXgWSja4": [
+    {
+      "type": 0,
+      "value": "右にスライド"
+    }
+  ],
+  "+BUznwQEJTiILiAa": [
+    {
+      "type": 0,
+      "value": "フィルターを追加"
+    }
+  ],
+  "+If2+8e1chrZkFzJ": [
+    {
+      "type": 0,
+      "value": "Something went wrong"
+    }
+  ],
+  "+Jc1Pz2t25AcHil0": [
+    {
+      "type": 0,
+      "value": "新機能"
+    }
+  ],
+  "+MYvp4qc5Ti3ddoO": [
+    {
+      "type": 0,
+      "value": "アップ"
+    }
+  ],
+  "+MjNr/UA72OgJPDa": [
+    {
+      "type": 0,
+      "value": "Step "
+    },
+    {
+      "type": 1,
+      "value": "current"
+    },
+    {
+      "type": 0,
+      "value": " of "
+    },
+    {
+      "type": 1,
+      "value": "total"
+    }
+  ],
+  "+Q75VFLIzDqeN+do": [
+    {
+      "type": 1,
+      "value": "allowedOperator"
+    },
+    {
+      "type": 0,
+      "value": " を使用する場合のみ、フィルター式と検索式を組み合わせることができます。"
+    }
+  ],
+  "+Vxz7rIFW86zQsz8": [
+    {
+      "type": 0,
+      "value": "すべてのテーブル列が非表示です。"
+    }
+  ],
+  "+ZCQmh5rimXhV4KO": [
+    {
+      "type": 0,
+      "value": "Scroll steps left"
+    }
+  ],
+  "+jn6HNnzB4IDIbZu": [
+    {
+      "type": 0,
+      "value": "次へ"
+    }
+  ],
+  "+kn/ILSk7yxtVqQ/": [
+    {
+      "type": 0,
+      "value": "このセグメントは存在しなくなりました。選択内容から削除してください。"
+    }
+  ],
+  "+mEjL2q8RACwzIMR": [
+    {
+      "type": 0,
+      "value": "重ねて表示に切り替える"
+    }
+  ],
+  "+qNOmVAE1opriSnf": [
+    {
+      "type": 0,
+      "value": "次の値以上:"
+    }
+  ],
+  "+uMnvs51tlYEa300": [
+    {
+      "type": 0,
+      "value": "Sources"
+    }
+  ],
+  "+uTtPJkLATW51CDB": [
+    {
+      "type": 0,
+      "value": "セグメントでフィルタリング"
+    }
+  ],
+  "/4+vzbJXQx9/bHQ9": [
+    {
+      "type": 0,
+      "value": "値"
+    }
+  ],
+  "/DJNcsGLrHi/d+Cy": [
+    {
+      "type": 0,
+      "value": "Download CSV"
+    }
+  ],
+  "/H3rbOvaR6bAasVo": [
+    {
+      "type": 0,
+      "value": "選択のクリア"
+    }
+  ],
+  "/SFvkA0WT3AVdLhH": [
+    {
+      "type": 0,
+      "value": "JSON 属性をフィルタリング"
+    }
+  ],
+  "/cHIv7hlXvB+krTT": [
+    {
+      "type": 0,
+      "value": "Try clearing the search and adding different search words."
+    }
+  ],
+  "/cwiOkubC69MZmRu": [
+    {
+      "type": 0,
+      "value": "有効な形式で入力を指定してください。"
+    }
+  ],
+  "/dH1ZDxCvqGesp4H": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでサポートされる値は 'true' と 'false' です。"
+    }
+  ],
+  "/gODMPYFdp49RodI": [
+    {
+      "type": 0,
+      "value": "先頭の値: "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "/jHof2z8yLr/qa9U": [
+    {
+      "type": 0,
+      "value": "基本構文モードでは、ステートメントのグループ化はサポートされていません。"
+    }
+  ],
+  "/p/pwzT/bHq8jsba": [
+    {
+      "type": 0,
+      "value": "Timeframe"
+    }
+  ],
+  "/zJ82FZ2E8C23Qci": [
+    {
+      "type": 0,
+      "value": "Filter by "
+    },
+    {
+      "type": 1,
+      "value": "statement"
+    }
+  ],
+  "01469lp26TkXjPEz": [
+    {
+      "type": 1,
+      "value": "panelName"
+    },
+    {
+      "type": 0,
+      "value": " を開く"
+    }
+  ],
+  "0VRyxKUSWrEGrYLJ": [
+    {
+      "type": 0,
+      "value": "サポートされている値:Smartscape ID"
+    }
+  ],
+  "0Y8wN2jk+BAa2NoC": [
+    {
+      "type": 1,
+      "value": "term"
+    },
+    {
+      "type": 0,
+      "value": " は、"
+    },
+    {
+      "type": 1,
+      "value": "max"
+    },
+    {
+      "type": 0,
+      "value": " より前のものを選択してください。"
+    }
+  ],
+  "0h7hXAauFUZKiVcD": [
+    {
+      "type": 0,
+      "value": "IP アドレス"
+    }
+  ],
+  "0mIAvvhLoJG6DVyY": [
+    {
+      "type": 0,
+      "value": "YAML の追加"
+    }
+  ],
+  "0ntbampPIxNnacS8": [
+    {
+      "type": 0,
+      "value": "詳細ビュー"
+    }
+  ],
+  "0pTypH/J5FqapHUE": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。"
+    }
+  ],
+  "0yl3EugW5oCHVbO1": [
+    {
+      "type": 0,
+      "value": "マイクロガイドを閉じる"
+    }
+  ],
+  "14mVeqEFpqD2fpev": [
+    {
+      "type": 0,
+      "value": "値は "
+    },
+    {
+      "type": 1,
+      "value": "max"
+    },
+    {
+      "type": 0,
+      "value": " 以下である必要があります。"
+    }
+  ],
+  "1H2kHk8y+z5PfQEE": [
+    {
+      "type": 0,
+      "value": "Only times from "
+    },
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " to "
+    },
+    {
+      "type": 1,
+      "value": "max"
+    },
+    {
+      "type": 0,
+      "value": " can be selected."
+    }
+  ],
+  "1HXxdMWF9JUS/EWC": [
+    {
+      "type": 0,
+      "value": "左にスライド"
+    }
+  ],
+  "1TnPlwjdgpaLY1uE": [
+    {
+      "type": 0,
+      "value": "グループに括弧がないようです。"
+    }
+  ],
+  "1aQ91Y44a9v1nUv3": [
+    {
+      "type": 0,
+      "value": "Not-wildcard matching is not supported for this key."
+    }
+  ],
+  "1cycyeSJyv4MEQyz": [
+    {
+      "type": 0,
+      "value": "時間枠プリセットのリスト"
+    }
+  ],
+  "1e3uPo8SoI4NA2dZ": [
+    {
+      "type": 0,
+      "value": "表示"
+    }
+  ],
+  "1ierRkr3xtpxyOXK": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ミリ秒間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "1paaTnYOwnYa5MKF": [
+    {
+      "type": 0,
+      "value": "ノード"
+    }
+  ],
+  "1qd7igf1SoPYptNg": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 個のデータ ポイント"
+    }
+  ],
+  "1xChk0S6M7Z4tXFB": [
+    {
+      "type": 0,
+      "value": "検索演算子は、このフィルター フィールドではサポートされていません。"
+    }
+  ],
+  "1yn5LJXBZlEagfkL": [
+    {
+      "type": 0,
+      "value": "フィルター キーがありません。"
+    }
+  ],
+  "2+ypcBK9NuQ5zg1k": [
+    {
+      "type": 0,
+      "value": "メッセージを閉じる"
+    }
+  ],
+  "21mG229oVCMPPsYY": [
+    {
+      "type": 0,
+      "value": "フィルターのリセット"
+    }
+  ],
+  "2BSsAVmKpHHX76YB": [
+    {
+      "type": 0,
+      "value": "リストではワイルドカード「*」の使用はサポートされていません。値にアスタリスクを含めるには、アスタリスクの前にバックスラッシュ「\\」を付けるか、値を二重引用符で囲んでエスケープしてください。"
+    }
+  ],
+  "2DJQNdEozwBZPASX": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーではテキスト値のみがサポートされています。"
+    }
+  ],
+  "2TgksAr68bjM6G9M": [
+    {
+      "type": 0,
+      "value": "値のリスト内の 1 つ以上の値と一致します"
+    }
+  ],
+  "2YBMATuaXx9/4zBP": [
+    {
+      "type": 0,
+      "value": "右へタブをスクロール"
+    }
+  ],
+  "2w4ytnIw5OSGcvDR": [
+    {
+      "type": 0,
+      "value": "昇順にソート"
+    }
+  ],
+  "2zjArS0xoR2Fy4/o": [
+    {
+      "type": 0,
+      "value": "リセット"
+    }
+  ],
+  "30K8AZbf0dT3VJZ3": [
+    {
+      "type": 0,
+      "value": "Refresh"
+    }
+  ],
+  "313HlKgYmTnqRqJU": [
+    {
+      "type": 0,
+      "value": "候補をロードしています"
+    }
+  ],
+  "3J6qHQEUwDxvZuIl": [
+    {
+      "type": 0,
+      "value": "ロードしています"
+    }
+  ],
+  "3QeEQ2KrbnVJzUEp": [
+    {
+      "type": 0,
+      "value": "Open actions for "
+    },
+    {
+      "type": 1,
+      "value": "seriesName"
+    }
+  ],
+  "3ZX0IG+5tekB89nr": [
+    {
+      "type": 0,
+      "value": "オプションの選択"
+    }
+  ],
+  "3jYmiQ54m6nCawn6": [
+    {
+      "type": 5,
+      "value": "value",
+      "options": {
+        "false": {
+          "value": [
+            {
+              "type": 0,
+              "value": "フレーズの検索"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 1,
+              "value": "value"
+            },
+            {
+              "type": 0,
+              "value": " の検索"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "3oBNy/ExeWqmMWha": [
+    {
+      "type": 0,
+      "value": "系列 "
+    },
+    {
+      "type": 1,
+      "value": "index"
+    }
+  ],
+  "3zpFLdLODjLHgabp": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは uid64、uid128、および uuid 形式のみがサポートされています。"
+    }
+  ],
+  "42g95tLLPXcqbFLl": [
+    {
+      "type": 0,
+      "value": "DD"
+    }
+  ],
+  "44M+LwJIb1lbO5Ev": [
+    {
+      "type": 0,
+      "value": "値のリスト内の 1 つ以上の値と一致しません"
+    }
+  ],
+  "47orYkGnlAr7+sPw": [
+    {
+      "type": 0,
+      "value": "値をコピー"
+    }
+  ],
+  "4Dfz/uq2jb0sD782": [
+    {
+      "type": 0,
+      "value": "サポートされている値: 'true'、'false'"
+    }
+  ],
+  "4ER0rfN8lI3HtaFd": [
+    {
+      "type": 0,
+      "value": "アバターのグループ。"
+    },
+    {
+      "type": 1,
+      "value": "hiddenAvatars"
+    },
+    {
+      "type": 0,
+      "value": " 件が非表示、総ユーザー数は "
+    },
+    {
+      "type": 1,
+      "value": "totalAvatars"
+    }
+  ],
+  "4MPw/PUwxwPT3S/6": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " error"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " errors"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " below the visible area. Activate to scroll to the nearest one."
+    }
+  ],
+  "4NCInqG2qgKe0TSA": [
+    {
+      "type": 0,
+      "value": "並べ替え: "
+    },
+    {
+      "type": 5,
+      "value": "direction",
+      "options": {
+        "asc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "昇順"
+            }
+          ]
+        },
+        "desc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "降順"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "未並べ替え"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " (優先度: "
+    },
+    {
+      "type": 1,
+      "value": "priority"
+    },
+    {
+      "type": 0,
+      "value": "/"
+    },
+    {
+      "type": 1,
+      "value": "total"
+    },
+    {
+      "type": 0,
+      "value": ")。"
+    }
+  ],
+  "4PipZ2Z07Q9epib1": [
+    {
+      "type": 0,
+      "value": "利用可能なオプションを検索"
+    }
+  ],
+  "4ccf9fJlKURtBw/8": [
+    {
+      "type": 0,
+      "value": "貼り付けられた内容の候補"
+    }
+  ],
+  "4yANH5gdmW1efk0I": [
+    {
+      "type": 0,
+      "value": "開始時間と終了時間を入力してください。"
+    }
+  ],
+  "5+yhrNhI2AlQmDAo": [
+    {
+      "type": 0,
+      "value": "hh"
+    }
+  ],
+  "51NRusIhLS5ayD70": [
+    {
+      "type": 0,
+      "value": "Absolute (% of total)"
+    }
+  ],
+  "568KZGFcxrq95nEC": [
+    {
+      "type": 1,
+      "value": "appName"
+    },
+    {
+      "type": 0,
+      "value": " にピン留め済み"
+    }
+  ],
+  "5Byu0D+YGc1DoTBc": [
+    {
+      "type": 0,
+      "value": "この位置に論理演算子を置くことはできません。"
+    }
+  ],
+  "5E11MLQX1RFMIXOL": [
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": " を値として使用"
+    }
+  ],
+  "5XoVjJUQ5b86MLW+": [
+    {
+      "type": 0,
+      "value": "値は "
+    },
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " 以上である必要があります。"
+    }
+  ],
+  "5eX0f5J5OWwoQNSw": [
+    {
+      "type": 0,
+      "value": "並べ替え"
+    }
+  ],
+  "5i26Rr1LLz0OIGNJ": [
+    {
+      "type": 0,
+      "value": "日時をクリア"
+    }
+  ],
+  "62QNu9Nw8T2nbJHu": [
+    {
+      "type": 0,
+      "value": "SmartscapeId"
+    }
+  ],
+  "68s36XOc0PAJH8bT": [
+    {
+      "type": 0,
+      "value": "and "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " more"
+    }
+  ],
+  "6GOnX5pixiNcVALE": [
+    {
+      "type": 0,
+      "value": "データ ポイントなし"
+    }
+  ],
+  "6Ut4st/DFcfYJorv": [
+    {
+      "type": 0,
+      "value": "並べ替え: "
+    },
+    {
+      "type": 5,
+      "value": "direction",
+      "options": {
+        "asc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "昇順"
+            }
+          ]
+        },
+        "desc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "降順"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "未並べ替え"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": "。"
+    }
+  ],
+  "6ZC5vGSgjnplvo7x": [
+    {
+      "type": 0,
+      "value": "更新についてメールで通知されます。"
+    }
+  ],
+  "6cOIaWQY3mdZZITF": [
+    {
+      "type": 0,
+      "value": "One or more segments of this preset are invalid and can't be applied."
+    }
+  ],
+  "6mKuXRGy1HMjpW9V": [
+    {
+      "type": 0,
+      "value": "(complete)"
+    }
+  ],
+  "6vA3zfYytiSPVBZV": [
+    {
+      "type": 0,
+      "value": "名前をコピー"
+    }
+  ],
+  "7/hGI/teTlqSMko6": [
+    {
+      "type": 0,
+      "value": "Format query"
+    }
+  ],
+  "72DlIwYKB9UTEzlA": [
+    {
+      "type": 0,
+      "value": "このセグメントで使用可能な値はありません。このセグメントは、"
+    },
+    {
+      "type": 1,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " で管理できます。"
+    }
+  ],
+  "72ugwoadmZD7pI5d": [
+    {
+      "type": 0,
+      "value": "Create "
+    },
+    {
+      "type": 1,
+      "value": "inputValue"
+    }
+  ],
+  "7IzOa/lx4Dc/qLGo": [
+    {
+      "type": 0,
+      "value": "通知を閉じる"
+    }
+  ],
+  "7M6Jd0cEy/ruEDEZ": [
+    {
+      "type": 0,
+      "value": "次の値を含む: "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "7cB3GSVBVIfSrN8y": [
+    {
+      "type": 0,
+      "value": "問題が発生しました。後でもう一度お試しください。"
+    }
+  ],
+  "7eS8L2HEADvzM6q2": [
+    {
+      "type": 0,
+      "value": "グループ内では検索式はサポートされていません。"
+    }
+  ],
+  "7tnC6f9ag1/zG/vh": [
+    {
+      "type": 0,
+      "value": "テキストの追加"
+    }
+  ],
+  "7vkTbyAZNeY/qa9p": [
+    {
+      "type": 1,
+      "value": "length"
+    },
+    {
+      "type": 0,
+      "value": " 個のセグメント"
+    }
+  ],
+  "7xHzfczl7r7WqNa2": [
+    {
+      "type": 0,
+      "value": "Flow"
+    }
+  ],
+  "7zZeVBfEiXm3xbwL": [
+    {
+      "type": 0,
+      "value": "先頭"
+    }
+  ],
+  "83QccW/P4JcNgO6M": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは "
+    },
+    {
+      "type": 1,
+      "value": "allowedTypes"
+    },
+    {
+      "type": 0,
+      "value": " 型の値のみがサポートされています。"
+    }
+  ],
+  "8KQslb+aIgOg9wbA": [
+    {
+      "type": 0,
+      "value": "サポートされている値:タイムスタンプ"
+    }
+  ],
+  "8a6rHEksmq2fZCQl": [
+    {
+      "type": 0,
+      "value": "行を"
+    },
+    {
+      "type": 5,
+      "value": "isDetailsOpen",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "折りたたむ"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "展開する"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " (ID "
+    },
+    {
+      "type": 1,
+      "value": "id"
+    },
+    {
+      "type": 0,
+      "value": " のもの)"
+    }
+  ],
+  "8bfwTDfvbh8A1Rkz": [
+    {
+      "type": 0,
+      "value": "Early Access"
+    }
+  ],
+  "8dfJ1qE448JT0RwO": [
+    {
+      "type": 0,
+      "value": "Not-ends-with is not supported for this key."
+    }
+  ],
+  "8fzPtb8YMF5R1xlh": [
+    {
+      "type": 0,
+      "value": "末尾に使用できない"
+    }
+  ],
+  "8gqUdz9VpeEbBtre": [
+    {
+      "type": 1,
+      "value": "seriesName"
+    },
+    {
+      "type": 0,
+      "value": " shown"
+    }
+  ],
+  "8jgPPxKxjmqUGMNe": [
+    {
+      "type": 0,
+      "value": "Hide all"
+    }
+  ],
+  "8kqNkvIZtJIon5xR": [
+    {
+      "type": 0,
+      "value": "最近使用された"
+    }
+  ],
+  "8lZa/1S3ydSfb3iO": [
+    {
+      "type": 0,
+      "value": "\"次の値を含む:\" はこのキーではサポートされていません。"
+    }
+  ],
+  "9/nhbjHpPPAhMbHo": [
+    {
+      "type": 0,
+      "value": "このアプリのバージョン情報"
+    }
+  ],
+  "91t8w7tO+iaic/Z+": [
+    {
+      "type": 0,
+      "value": "1/1"
+    }
+  ],
+  "92og/kC9Mmwxmmg0": [
+    {
+      "type": 0,
+      "value": "プレビュー"
+    }
+  ],
+  "986buSbL34GVFlBf": [
+    {
+      "type": 0,
+      "value": "表示数を減らす"
+    }
+  ],
+  "9AzZAjitLsfniU2y": [
+    {
+      "type": 0,
+      "value": "TSX の追加"
+    }
+  ],
+  "9CoVZOFnpgG0coFf": [
+    {
+      "type": 0,
+      "value": "Remove segment "
+    },
+    {
+      "type": 1,
+      "value": "segment"
+    }
+  ],
+  "9IaEBlhZa5HXmHA+": [
+    {
+      "type": 0,
+      "value": "フィルターを"
+    },
+    {
+      "type": 5,
+      "value": "isPinned",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ピン留め解除"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ピン留めする"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " (値 \""
+    },
+    {
+      "type": 1,
+      "value": "filterString"
+    },
+    {
+      "type": 0,
+      "value": "\")"
+    }
+  ],
+  "9JhiinIAmqWKBJae": [
+    {
+      "type": 0,
+      "value": "CSV としてダウンロード"
+    }
+  ],
+  "9MfTMQZEb1FWujn4": [
+    {
+      "type": 0,
+      "value": "Doesn't include the entities required in this view"
+    },
+    {
+      "type": 8,
+      "value": "detail",
+      "children": [
+        {
+          "type": 0,
+          "value": "."
+        }
+      ]
+    }
+  ],
+  "9RcckxxccNTcNVf9": [
+    {
+      "type": 0,
+      "value": "サイドバー"
+    }
+  ],
+  "9SDB/Tz9eGlVpihz": [
+    {
+      "type": 0,
+      "value": "エラーが発生しました"
+    }
+  ],
+  "9XjoWQoeIKxStpgZ": [
+    {
+      "type": 1,
+      "value": "term"
+    },
+    {
+      "type": 0,
+      "value": " は、"
+    },
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " より後のものを選択してください。"
+    }
+  ],
+  "9kPb/Z3BKFzqqpzv": [
+    {
+      "type": 0,
+      "value": "Scroll steps right"
+    }
+  ],
+  "9xnhCHCgU7NGIxiX": [
+    {
+      "type": 0,
+      "value": "先頭の値が次ではない: "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "A1+FGKx7bONltqJV": [
+    {
+      "type": 0,
+      "value": "デフォルトにリセット"
+    }
+  ],
+  "A83BvIuW1VuAqWfv": [
+    {
+      "type": 0,
+      "value": "Try again or contact your admin."
+    }
+  ],
+  "A9Pdb5T48IHfEauq": [
+    {
+      "type": 0,
+      "value": "日付を選択するためのカレンダー オーバーレイ"
+    }
+  ],
+  "ABXa8Ni5H9+ZO7E0": [
+    {
+      "type": 0,
+      "value": "演算子がありません。"
+    }
+  ],
+  "ADLDZ8spJCrDx/6Q": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 時間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "ARdI7d8cJxHnUayP": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 個"
+    },
+    {
+      "type": 1,
+      "value": "moreOrLess"
+    },
+    {
+      "type": 0,
+      "value": "表示"
+    }
+  ],
+  "AYfNQEjfwenkbxsg": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " か月間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "Ah9w1glbeyevy7N+": [
+    {
+      "type": 0,
+      "value": "列が並べ替え可能であることを示すアイコン"
+    }
+  ],
+  "B/DeQ4xCT/IrvyuQ": [
+    {
+      "type": 0,
+      "value": "全日"
+    }
+  ],
+  "B/mrEkQ2k6RSHAdX": [
+    {
+      "type": 0,
+      "value": "Remove"
+    }
+  ],
+  "B0JVHiCeA3v550+2": [
+    {
+      "type": 0,
+      "value": "右にピン留め"
+    }
+  ],
+  "B1od+sZZT/rP8Plf": [
+    {
+      "type": 0,
+      "value": "CSV としてダウンロード"
+    }
+  ],
+  "B3Rj3sRBMMfDBuzK": [
+    {
+      "type": 0,
+      "value": "パスワードの追加"
+    }
+  ],
+  "BAfEyw7BhyJX3dfC": [
+    {
+      "type": 0,
+      "value": "候補"
+    }
+  ],
+  "BDzwWccOiezgFJp3": [
+    {
+      "type": 0,
+      "value": "最近使用された時間枠のリスト"
+    }
+  ],
+  "BEVBtJceKjGzK+w4": [
+    {
+      "type": 0,
+      "value": "Exists"
+    }
+  ],
+  "BEx30+lYFzO9WeY5": [
+    {
+      "type": 0,
+      "value": "から"
+    }
+  ],
+  "BYUJpW8TBonAxnYd": [
+    {
+      "type": 0,
+      "value": "サイドバー"
+    }
+  ],
+  "BfMOguQOfnAxwOI6": [
+    {
+      "type": 0,
+      "value": "サポートされている値:UID"
+    }
+  ],
+  "BfrmGp7APB2nlQRw": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 週間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "BlGZxVNh87aTe30G": [
+    {
+      "type": 0,
+      "value": "今日"
+    }
+  ],
+  "Bo8Z1UaJVL3ONFo8": [
+    {
+      "type": 0,
+      "value": "MM"
+    }
+  ],
+  "BpLdSR8CsBRr9iYt": [
+    {
+      "type": 0,
+      "value": "Not-starts-with is not supported for this key."
+    }
+  ],
+  "BqRVinIeQxz83n1M": [
+    {
+      "type": 0,
+      "value": "Hidden"
+    }
+  ],
+  "BxL/OHRXGQ4NxkRA": [
+    {
+      "type": 0,
+      "value": "降順にソート"
+    }
+  ],
+  "CQIPnzlUQ9+DqtjP": [
+    {
+      "type": 0,
+      "value": "選択にズーム"
+    }
+  ],
+  "CZzImkwrQi9rMTqS": [
+    {
+      "type": 0,
+      "value": "Selected rows"
+    }
+  ],
+  "Ce/f2UdApbmNAeEM": [
+    {
+      "type": 0,
+      "value": "等しくない"
+    }
+  ],
+  "CerADEHqR/6IVmHr": [
+    {
+      "type": 0,
+      "value": "検索"
+    }
+  ],
+  "CjpZq81r1HsdNxp0": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 年間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "CrdM30eeqaF3mlZr": [
+    {
+      "type": 0,
+      "value": "ドラッグして行 \""
+    },
+    {
+      "type": 1,
+      "value": "rowId"
+    },
+    {
+      "type": 0,
+      "value": "\" の順番を決めます。"
+    }
+  ],
+  "Cv2AP7VKybeuopCP": [
+    {
+      "type": 0,
+      "value": "左へタブをスクロール"
+    }
+  ],
+  "CwGi8xbTtV+fdsu5": [
+    {
+      "type": 0,
+      "value": "クエリの実行"
+    }
+  ],
+  "CzhNdiuuquVgEUTg": [
+    {
+      "type": 0,
+      "value": "他に使用可能なセグメントはありません。"
+    }
+  ],
+  "DGxBAtTf7DsapBEX": [
+    {
+      "type": 0,
+      "value": "Optional"
+    }
+  ],
+  "DHZv33G8z3rNPFeq": [
+    {
+      "type": 0,
+      "value": "アップ"
+    }
+  ],
+  "DJH6Mo6y4LT1rFxc": [
+    {
+      "type": 0,
+      "value": "You can show up to "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "limit",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "column"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "columns"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " at a time."
+    }
+  ],
+  "DMJP39IduNdB3wO3": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 秒間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "DNrcyDOyGqjx6Zqx": [
+    {
+      "type": 0,
+      "value": "Search or create"
+    }
+  ],
+  "DV3d5lBJda+EHJja": [
+    {
+      "type": 0,
+      "value": "表示数を増やす"
+    }
+  ],
+  "DXbY+p0kaQthdZgP": [
+    {
+      "type": 0,
+      "value": "Pinned to right"
+    }
+  ],
+  "DXoXEb27LMuapbC4": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "時間"
+    }
+  ],
+  "DoSCFZmkm4Wgk+9J": [
+    {
+      "type": 0,
+      "value": "列の設定"
+    }
+  ],
+  "DswaMGT7rt2ajcbI": [
+    {
+      "type": 0,
+      "value": "適用"
+    }
+  ],
+  "DuSRQkjfN+FlzOWl": [
+    {
+      "type": 0,
+      "value": "These segments can't render results in this view."
+    }
+  ],
+  "Dz8K7VMW5UFpwetG": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "日"
+    }
+  ],
+  "E1oTbKDAzXJo/hs/": [
+    {
+      "type": 0,
+      "value": "どんな形のものも存在しません"
+    }
+  ],
+  "E7kKT3Td1FKB37wr": [
+    {
+      "type": 0,
+      "value": "テキストの追加"
+    }
+  ],
+  "EAU3RUdvyoar4XEO": [
+    {
+      "type": 0,
+      "value": "1 "
+    },
+    {
+      "type": 1,
+      "value": "severity"
+    },
+    {
+      "type": 0,
+      "value": " on line "
+    },
+    {
+      "type": 1,
+      "value": "line"
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 1,
+      "value": "message"
+    }
+  ],
+  "EBcYgbL0S1T6EpS2": [
+    {
+      "type": 0,
+      "value": "コード エディター"
+    }
+  ],
+  "ECZzXUfKYwLWko5n": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 日間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "EG+qZn4zIajJ41CP": [
+    {
+      "type": 0,
+      "value": "時間枠のリセット"
+    }
+  ],
+  "ERAhDK0Wy/n7Sd2e": [
+    {
+      "type": 0,
+      "value": "sss"
+    }
+  ],
+  "EURS16Ydd/jqrdlA": [
+    {
+      "type": 0,
+      "value": "Wildcard matching is not supported for this key."
+    }
+  ],
+  "EWfCcasdyt/QUnjk": [
+    {
+      "type": 0,
+      "value": "データを読み込んでいます"
+    }
+  ],
+  "EsLvnx9UfUL/bZ/r": [
+    {
+      "type": 0,
+      "value": "すべて選択"
+    }
+  ],
+  "Ew2zazlMNmEr1jna": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは IPv4 および IPv6 アドレスのみがサポートされています。"
+    }
+  ],
+  "ExRdGipMUK2Tldxd": [
+    {
+      "type": 0,
+      "value": "セグメントが適用されていますが、あなたに割り当てられているアクセス制御ポリシーにより、セグメントの読み取りは許可されていません。"
+    }
+  ],
+  "F6H1FQ86mt53ZgVL": [
+    {
+      "type": 0,
+      "value": "...で開く"
+    }
+  ],
+  "F78crM1uQumIOJdh": [
+    {
+      "type": 0,
+      "value": "列"
+    }
+  ],
+  "F7t2bxwXuoFZkUcl": [
+    {
+      "type": 0,
+      "value": "ソートのクリア"
+    }
+  ],
+  "FIMM9WXC8Kwieah3": [
+    {
+      "type": 0,
+      "value": "At least 1 column must be shown."
+    }
+  ],
+  "FJE1QgzcKO8lKmt4": [
+    {
+      "type": 0,
+      "value": "ID \""
+    },
+    {
+      "type": 1,
+      "value": "id"
+    },
+    {
+      "type": 0,
+      "value": "\" の行の選択を切り替えます。"
+    }
+  ],
+  "FWPcCUBJ8OXZAxdJ": [
+    {
+      "type": 0,
+      "value": "Pinned to left"
+    }
+  ],
+  "FbK3miEv64PNHk2r": [
+    {
+      "type": 0,
+      "value": "明日"
+    }
+  ],
+  "Fik0kx8pJ4hkEZUZ": [
+    {
+      "type": 0,
+      "value": "無効な比較子です。使用できる比較子は次のとおりです: "
+    },
+    {
+      "type": 1,
+      "value": "allowedComparators"
+    },
+    {
+      "type": 0,
+      "value": "。"
+    }
+  ],
+  "Fr3cNB5JDQGaGwae": [
+    {
+      "type": 0,
+      "value": "検索"
+    }
+  ],
+  "FxsZTOljj8LWcZO0": [
+    {
+      "type": 0,
+      "value": "コピー"
+    }
+  ],
+  "FyckX6XbAY31huMU": [
+    {
+      "type": 0,
+      "value": "The request was cancelled."
+    }
+  ],
+  "G0h1f2oRxQ8RBqNt": [
+    {
+      "type": 0,
+      "value": "フィルター構文"
+    }
+  ],
+  "G7XpORU3bjxuwkZF": [
+    {
+      "type": 0,
+      "value": "UID"
+    }
+  ],
+  "GFd2oJ+U46/o0aMy": [
+    {
+      "type": 0,
+      "value": "さらに "
+    },
+    {
+      "type": 1,
+      "value": "number"
+    },
+    {
+      "type": 0,
+      "value": " 個"
+    }
+  ],
+  "GH0lEEpNg7HJ9sA6": [
+    {
+      "type": 0,
+      "value": "通知"
+    }
+  ],
+  "GJLVBRiy5bhkd99x": [
+    {
+      "type": 0,
+      "value": "You'll need some additional permissions to access "
+    },
+    {
+      "type": 1,
+      "value": "appName"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "GLK6cN59tiRO9GDp": [
+    {
+      "type": 0,
+      "value": "Previous match"
+    }
+  ],
+  "GUeetpTpusqFkMi+": [
+    {
+      "type": 0,
+      "value": "開始時刻を入力してください。"
+    }
+  ],
+  "GVgSJsxp0Xlb1HDE": [
+    {
+      "type": 0,
+      "value": "Wizard navigation"
+    }
+  ],
+  "GeQL1Mbr4RzmlFJk": [
+    {
+      "type": 0,
+      "value": "および"
+    }
+  ],
+  "GhC5F6ZRFGDVs41W": [
+    {
+      "type": 0,
+      "value": "入力してフィルターする"
+    }
+  ],
+  "GixTwN/AsVWJprz2": [
+    {
+      "type": 0,
+      "value": "残りの日"
+    }
+  ],
+  "H/VZFCG2RGSttU0h": [
+    {
+      "type": 0,
+      "value": "Data can't be displayed"
+    }
+  ],
+  "H2VUpiEwW6nogPLP": [
+    {
+      "type": 0,
+      "value": "Copied"
+    }
+  ],
+  "HAQQKModsP5sAIpb": [
+    {
+      "type": 0,
+      "value": "Invalid format for end time. Enter an exact date and time (01/01/2000, 00:00) or a relative expression (now-2h)."
+    }
+  ],
+  "HChaOEcqD6o/jiDX": [
+    {
+      "type": 0,
+      "value": "\"先頭の値:\" はこのキーではサポートされていません。"
+    }
+  ],
+  "HH0Od0c8jGTsxDda": [
+    {
+      "type": 0,
+      "value": "移動"
+    }
+  ],
+  "HPbv8ZQrbBL7hRCT": [
+    {
+      "type": 0,
+      "value": "たった今"
+    }
+  ],
+  "HPt4l9OCXddkPdak": [
+    {
+      "type": 1,
+      "value": "suggestionsLength"
+    },
+    {
+      "type": 0,
+      "value": " 件の候補があります。"
+    }
+  ],
+  "Hb5phHuz1zWpI7/Z": [
+    {
+      "type": 0,
+      "value": "左へ移動"
+    }
+  ],
+  "HnUFKqpr47NWwlve": [
+    {
+      "type": 0,
+      "value": "グリッド オプション"
+    }
+  ],
+  "HpRsCrp1SmD+zRFu": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 分間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "HzfsDA+42BHW9xeE": [
+    {
+      "type": 0,
+      "value": "フィルター式の候補"
+    }
+  ],
+  "HzhWa5UT4EGJIstf": [
+    {
+      "type": 0,
+      "value": "(全 "
+    },
+    {
+      "type": 1,
+      "value": "totalPages"
+    },
+    {
+      "type": 0,
+      "value": " 件)"
+    }
+  ],
+  "IAzId4iIfCf1TztP": [
+    {
+      "type": 0,
+      "value": "99+ errors"
+    }
+  ],
+  "IK8qCfDGg9HgIHQC": [
+    {
+      "type": 0,
+      "value": "URL の追加"
+    }
+  ],
+  "ISDjs5QR69pgVw74": [
+    {
+      "type": 0,
+      "value": "Select all, "
+    },
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " item selected"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " items selected"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "IU+dkogAuDAabi52": [
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "IUvOgujQzBX+gSUq": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " option found"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " options found"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "Ia87HCOLBoxMcV9t": [
+    {
+      "type": 0,
+      "value": "フィードバックを送る"
+    }
+  ],
+  "IjB05bsdexXUZ1sw": [
+    {
+      "type": 0,
+      "value": "縮小"
+    }
+  ],
+  "Ir0YCuBX6vOM4t0J": [
+    {
+      "type": 0,
+      "value": "DQL の追加"
+    }
+  ],
+  "ItflQisz88wfEcF+": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 四半期"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "IwwqXNaWxNjk1Su9": [
+    {
+      "type": 0,
+      "value": "info"
+    }
+  ],
+  "IxBuNnEpnJSWQsZ1": [
+    {
+      "type": 0,
+      "value": "Close"
+    }
+  ],
+  "J2NKmHJhslvMRQcz": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは数値のみがサポートされています。"
+    }
+  ],
+  "J9M12SSZNn2dKokI": [
+    {
+      "type": 0,
+      "value": "クエリの実行"
+    }
+  ],
+  "JD+4DustbTxxRolo": [
+    {
+      "type": 0,
+      "value": "Doesn't include the "
+    },
+    {
+      "type": 6,
+      "value": "dataTypesCount",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "signal"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "signals"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " required in this view:"
+    },
+    {
+      "type": 8,
+      "value": "detail",
+      "children": [
+        {
+          "type": 0,
+          "value": " "
+        },
+        {
+          "type": 1,
+          "value": "dataTypes"
+        },
+        {
+          "type": 0,
+          "value": "."
+        }
+      ]
+    }
+  ],
+  "JLMJNMOPi2dCAbD1": [
+    {
+      "type": 0,
+      "value": "Next match"
+    }
+  ],
+  "JNqvsQ757QGyZ+wN": [
+    {
+      "type": 0,
+      "value": "ズーム モード"
+    }
+  ],
+  "JOIA3jQfIIkgnW04": [
+    {
+      "type": 0,
+      "value": "このテキストを "
+    },
+    {
+      "type": 1,
+      "value": "maxLength"
+    },
+    {
+      "type": 0,
+      "value": " 文字以下に短くしてください。"
+    }
+  ],
+  "JPnuokqbGzUhWJWE": [
+    {
+      "type": 0,
+      "value": "Clear search"
+    }
+  ],
+  "JZunLfAY47K5StQb": [
+    {
+      "type": 0,
+      "value": "次の値より小さい:"
+    }
+  ],
+  "JfsC0aOiAl7G3esV": [
+    {
+      "type": 0,
+      "value": "チップを削除"
+    }
+  ],
+  "JlWcGe/hRo/kyTD+": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 分間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "JmaVR5qUnuxE3qnb": [
+    {
+      "type": 0,
+      "value": "キーボード ショートカット"
+    }
+  ],
+  "JzYy8MUVfPcyf4l5": [
+    {
+      "type": 0,
+      "value": "リンクを新しいウィンドウで開く"
+    }
+  ],
+  "K+rYESaxckSqgeF/": [
+    {
+      "type": 0,
+      "value": "使用不可"
+    }
+  ],
+  "K2M82PM/gcTo3fjq": [
+    {
+      "type": 0,
+      "value": "DateRangePicker カレンダー トリガー"
+    }
+  ],
+  "KAAzM9PVtiJno9ks": [
+    {
+      "type": 0,
+      "value": "次のページに移動します。"
+    }
+  ],
+  "KGG/HbTw4ZLbI8vx": [
+    {
+      "type": 0,
+      "value": "Only times up to \"Now\" can be selected. Try \"Now\" or a past time."
+    }
+  ],
+  "KgAwef2nXv2+/xgE": [
+    {
+      "type": 0,
+      "value": "YYYY"
+    }
+  ],
+  "KlA+bTF6CnwSnbCJ": [
+    {
+      "type": 0,
+      "value": "ズーム モード"
+    }
+  ],
+  "KxAo/sbsalGLDonj": [
+    {
+      "type": 0,
+      "value": "以下にあるすべての行を"
+    },
+    {
+      "type": 5,
+      "value": "nextSelection",
+      "options": {
+        "select": {
+          "value": [
+            {
+              "type": 0,
+              "value": "選択"
+            }
+          ]
+        },
+        "deselect": {
+          "value": [
+            {
+              "type": 0,
+              "value": "選択解除"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 5,
+      "value": "scope",
+      "options": {
+        "page": {
+          "value": [
+            {
+              "type": 0,
+              "value": "現在のページ"
+            }
+          ]
+        },
+        "all": {
+          "value": [
+            {
+              "type": 0,
+              "value": "テーブル"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "KzBG7IQ4sG79Dlpy": [
+    {
+      "type": 0,
+      "value": "この時間枠はアプリでサポートされている制限を超えています。"
+    }
+  ],
+  "L/D6X7Ee5PYWzl3i": [
+    {
+      "type": 0,
+      "value": "その他のアクションを表示"
+    }
+  ],
+  "L4FYL0HqCIFzBkzf": [
+    {
+      "type": 0,
+      "value": "ピン留め"
+    }
+  ],
+  "L6ZeI3XBOuh0L/CT": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " ミリ秒間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "LAcIIvdezwZIzQG+": [
+    {
+      "type": 0,
+      "value": "'in' 演算子は空のリストをサポートしていません。"
+    }
+  ],
+  "LCNiBr0aBntMq391": [
+    {
+      "type": 0,
+      "value": "ページ"
+    }
+  ],
+  "LJ0fyD2++VZgZ5g0": [
+    {
+      "type": 0,
+      "value": "サイドバーを折りたたむ"
+    }
+  ],
+  "LNWPcycjuDPimFKd": [
+    {
+      "type": 1,
+      "value": "term"
+    },
+    {
+      "type": 0,
+      "value": " は、"
+    },
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " から "
+    },
+    {
+      "type": 1,
+      "value": "max"
+    },
+    {
+      "type": 0,
+      "value": " の範囲で選択してください。"
+    }
+  ],
+  "LOWAzLWj0fknrnEb": [
+    {
+      "type": 0,
+      "value": "フィルターの適用"
+    }
+  ],
+  "LQ8VkjDPP6CnNrhf": [
+    {
+      "type": 0,
+      "value": "列を非表示"
+    }
+  ],
+  "LaYAv5QEhDEHqVMW": [
+    {
+      "type": 0,
+      "value": "Version"
+    }
+  ],
+  "Lf17UdZsPiDHy/un": [
+    {
+      "type": 0,
+      "value": "Clear isolation"
+    }
+  ],
+  "LgOM6mSxWTUB+NI/": [
+    {
+      "type": 0,
+      "value": "チャート ツール"
+    }
+  ],
+  "LhnAiI2sqynNbsba": [
+    {
+      "type": 0,
+      "value": "適用されているセグメントは古くなりました。オーバーレイの選択内容を確認してください。"
+    }
+  ],
+  "LoBSMcHvTQEABp39": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "月"
+    }
+  ],
+  "M6eNgatb2wf4fQ3I": [
+    {
+      "type": 1,
+      "value": "ariaLabelPrefix"
+    },
+    {
+      "type": 0,
+      "value": " 式"
+    }
+  ],
+  "MJmQVUKWduRqcQ2F": [
+    {
+      "type": 5,
+      "value": "isHidden",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Show"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Hide"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "columnName"
+    }
+  ],
+  "MY7AZtZAiZ2+M5X3": [
+    {
+      "type": 0,
+      "value": "Clear text"
+    }
+  ],
+  "MYBFw8pxHVA1QTDj": [
+    {
+      "type": 0,
+      "value": "サイドバー"
+    }
+  ],
+  "MYfVMxPsAgOn8JSP": [
+    {
+      "type": 0,
+      "value": "値は "
+    },
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " 以上で、"
+    },
+    {
+      "type": 1,
+      "value": "step"
+    },
+    {
+      "type": 0,
+      "value": " の倍数でなければなりません。"
+    }
+  ],
+  "Mexo5VI0BZU5Mw8b": [
+    {
+      "type": 0,
+      "value": "セグメントが設定されていません。"
+    }
+  ],
+  "Mh5VCfdpjmGhMnOB": [
+    {
+      "type": 0,
+      "value": "複数列の並び替え"
+    }
+  ],
+  "MlwM+/jonCtjJ+L7": [
+    {
+      "type": 0,
+      "value": "時間の追加"
+    }
+  ],
+  "MsfOpUQyZ0eEZ/5T": [
+    {
+      "type": 0,
+      "value": "セグメントの管理"
+    }
+  ],
+  "N200he2aabhApHz+": [
+    {
+      "type": 0,
+      "value": "X 値"
+    }
+  ],
+  "N27hQ6LyGqdym2Yi": [
+    {
+      "type": 0,
+      "value": "戻る"
+    }
+  ],
+  "NHGVmhAtHDO9Lh7I": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " error"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " errors"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " above the visible area. Activate to scroll to the nearest one."
+    }
+  ],
+  "NXdoElYQZNKea1Sc": [
+    {
+      "type": 0,
+      "value": "追加情報を開きます。"
+    }
+  ],
+  "NaaAIQEjAbA5v71n": [
+    {
+      "type": 0,
+      "value": "You'll soon need some additional permissions to continue using segments."
+    }
+  ],
+  "Np6+N27mrjvIJEls": [
+    {
+      "type": 0,
+      "value": "適用"
+    }
+  ],
+  "NwDE2g2nYFjxPG9v": [
+    {
+      "type": 0,
+      "value": "Copy query"
+    }
+  ],
+  "O/np6sF9sZ/F/AdB": [
+    {
+      "type": 0,
+      "value": "Filter by "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    }
+  ],
+  "OBIv2/oXhdnWDW/Z": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " error"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " errors"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "OEhnk3JokTy0c/JX": [
+    {
+      "type": 0,
+      "value": "インテント メニューを開く"
+    }
+  ],
+  "OLs+1KIFFvyM4iJv": [
+    {
+      "type": 0,
+      "value": "ブール値"
+    }
+  ],
+  "OVHWs31OggLCgWSq": [
+    {
+      "type": 0,
+      "value": "詳細をコピーする"
+    }
+  ],
+  "OmNf7ak/Kcv7wP3u": [
+    {
+      "type": 0,
+      "value": "Data table"
+    }
+  ],
+  "OwC/n+tx4kFWA3l3": [
+    {
+      "type": 0,
+      "value": "プライマリ系列名"
+    }
+  ],
+  "PCUD8a2q2mhgGcgg": [
+    {
+      "type": 0,
+      "value": "JSX の追加"
+    }
+  ],
+  "PKJV6NXPfso3pkdg": [
+    {
+      "type": 0,
+      "value": "Self"
+    }
+  ],
+  "Pejm0KE1UcIcJEN7": [
+    {
+      "type": 0,
+      "value": "Show all"
+    }
+  ],
+  "PjDGLO7+f1/CNRR0": [
+    {
+      "type": 0,
+      "value": "候補はありません"
+    }
+  ],
+  "PkWNcYRn4iWtpXnu": [
+    {
+      "type": 0,
+      "value": "基本構文モードでは、論理「OR」演算子はサポートされていません。"
+    }
+  ],
+  "Psa1yEbRJtw20yK3": [
+    {
+      "type": 0,
+      "value": "現在のページの選択"
+    }
+  ],
+  "PvxiDAHj1Za2svSx": [
+    {
+      "type": 0,
+      "value": "Duration"
+    }
+  ],
+  "Pyb778wli2buPWzS": [
+    {
+      "type": 0,
+      "value": "エラーが発生しました。"
+    }
+  ],
+  "Q7HxEz/6LQ+CtEXo": [
+    {
+      "type": 0,
+      "value": "10 項目より多くはピン留めできません"
+    }
+  ],
+  "Q7Mgijk38uWvSnlW": [
+    {
+      "type": 0,
+      "value": "スペースが欠落しているようです。"
+    }
+  ],
+  "QF4myF79Hrp3e/0Q": [
+    {
+      "type": 0,
+      "value": "開始"
+    }
+  ],
+  "QGNAMlfBaYn7aCLl": [
+    {
+      "type": 0,
+      "value": "最近使用したフィルター"
+    }
+  ],
+  "QPVwTdDxajDwh62B": [
+    {
+      "type": 0,
+      "value": "Open"
+    }
+  ],
+  "QZdQoUnAWKJYAyK2": [
+    {
+      "type": 0,
+      "value": "最近使用された"
+    }
+  ],
+  "QbeiZKf6kqgyTp3m": [
+    {
+      "type": 0,
+      "value": "セカンダリ系列名"
+    }
+  ],
+  "QcMUmxPks29bm95e": [
+    {
+      "type": 0,
+      "value": "Complete the required setup to display data."
+    }
+  ],
+  "QcvItWP6U/6ryl2u": [
+    {
+      "type": 0,
+      "value": "List hidden columns"
+    }
+  ],
+  "QsCiOjrrvWmpOx/R": [
+    {
+      "type": 1,
+      "value": "columnName"
+    },
+    {
+      "type": 0,
+      "value": " can't be "
+    },
+    {
+      "type": 5,
+      "value": "isHidden",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "shown"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "hidden"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "QsKlSIxE+Yp58CUG": [
+    {
+      "type": 0,
+      "value": "時間枠が空です。"
+    }
+  ],
+  "QsfELKqpB23/KKWM": [
+    {
+      "type": 1,
+      "value": "panelName"
+    },
+    {
+      "type": 0,
+      "value": " を閉じる"
+    }
+  ],
+  "R5VDokjiAIL+eFdM": [
+    {
+      "type": 0,
+      "value": "Code snippet actions"
+    }
+  ],
+  "R78oo6l2CKe2fY1R": [
+    {
+      "type": 0,
+      "value": "サポートされている値:IP アドレス"
+    }
+  ],
+  "RDgsChxyCHLagWz5": [
+    {
+      "type": 0,
+      "value": "Selected node"
+    }
+  ],
+  "RL8FCY3ia3BTX2cU": [
+    {
+      "type": 0,
+      "value": "閉じる"
+    }
+  ],
+  "RPdRdtDJumoOO3os": [
+    {
+      "type": 1,
+      "value": "appName"
+    },
+    {
+      "type": 0,
+      "value": " にピン留め"
+    }
+  ],
+  "RST92XLweEz0Qott": [
+    {
+      "type": 0,
+      "value": "並べて表示に切り替える"
+    }
+  ],
+  "RSp2nSscx4hJgP2P": [
+    {
+      "type": 0,
+      "value": "何らかの形で存在します"
+    }
+  ],
+  "RicigT+v0BvVWaSt": [
+    {
+      "type": 0,
+      "value": "ドラッグして \""
+    },
+    {
+      "type": 1,
+      "value": "column"
+    },
+    {
+      "type": 0,
+      "value": "\" 列の順番を変更する"
+    }
+  ],
+  "Riz3wAzTiv590+pg": [
+    {
+      "type": 0,
+      "value": "Enable 'List hidden columns' to see them."
+    }
+  ],
+  "Ro/9HWdwiItr3Ter": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " か月間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "RoNWrUBQf8gR7lxZ": [
+    {
+      "type": 0,
+      "value": "このセグメントで使用可能な値はありません。設定でこのセグメントを管理できます。"
+    }
+  ],
+  "Rrlag1wRQFMpYHX7": [
+    {
+      "type": 0,
+      "value": "座標をコピー"
+    }
+  ],
+  "RtgXOb8aZAcB4TCn": [
+    {
+      "type": 0,
+      "value": "Query cancelled"
+    }
+  ],
+  "RuEjUW6uMDS+tSIZ": [
+    {
+      "type": 0,
+      "value": "Doesn't exist"
+    }
+  ],
+  "RuGHpilISAqb1dDM": [
+    {
+      "type": 0,
+      "value": "値の選択"
+    }
+  ],
+  "RwWfbCK3X+5Ie3vr": [
+    {
+      "type": 0,
+      "value": "error"
+    }
+  ],
+  "Rx7WtBPx/tyQ5h+j": [
+    {
+      "type": 0,
+      "value": "移動"
+    }
+  ],
+  "RxaXcljpkrMAErS9": [
+    {
+      "type": 0,
+      "value": "右へ移動"
+    }
+  ],
+  "S3llhud3ydpS6ObI": [
+    {
+      "type": 0,
+      "value": "または"
+    }
+  ],
+  "SPSPRmp+gABk1LGQ": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 分間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "SZrN/y5KM3ow7Jed": [
+    {
+      "type": 0,
+      "value": "interactive row"
+    }
+  ],
+  "Siq71+wvTgBerJXL": [
+    {
+      "type": 0,
+      "value": "探索モード"
+    }
+  ],
+  "SzcXIJL/aWzjy5Ig": [
+    {
+      "type": 0,
+      "value": "追加"
+    }
+  ],
+  "TGpKHavTfvNDG6nB": [
+    {
+      "type": 0,
+      "value": "サポートされている値:数値"
+    }
+  ],
+  "THNwSvfvDSXAUapi": [
+    {
+      "type": 0,
+      "value": "コピーされました"
+    }
+  ],
+  "TIVnKWerQ6BuCdAB": [
+    {
+      "type": 0,
+      "value": "検索"
+    }
+  ],
+  "TKRQN9BIBeD8VT1I": [
+    {
+      "type": 0,
+      "value": "ダウン"
+    }
+  ],
+  "TNgy+4XtLPGHfZu2": [
+    {
+      "type": 0,
+      "value": "フレーズに一致"
+    }
+  ],
+  "TO+JQQr/hhHRjVL4": [
+    {
+      "type": 0,
+      "value": "Column settings are reset to default."
+    }
+  ],
+  "TTCLEQtF7ylLxvEx": [
+    {
+      "type": 0,
+      "value": "探索モード"
+    }
+  ],
+  "TY3F/kE6n91t0TL0": [
+    {
+      "type": 0,
+      "value": "新着情報"
+    }
+  ],
+  "TfD0vlG3TMEkxj74": [
+    {
+      "type": 0,
+      "value": "Try again to fetch data."
+    }
+  ],
+  "Tr/buzcgyjaGCFM7": [
+    {
+      "type": 0,
+      "value": "フレーズに一致しない"
+    }
+  ],
+  "TuHiu5OflYhkrvKy": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 週間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "U4LTHt7BSgC51Yri": [
+    {
+      "type": 0,
+      "value": "グループは空にできません。"
+    }
+  ],
+  "U59PIse3upSvDblc": [
+    {
+      "type": 0,
+      "value": "無効な時間枠"
+    }
+  ],
+  "U5fgWD8U9siN4Gse": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "U7gUoyCRKRniBDOp": [
+    {
+      "type": 0,
+      "value": "左にスライド"
+    }
+  ],
+  "U8ktDsKphISwBpaV": [
+    {
+      "type": 0,
+      "value": "One or more variables don't match the segment's filter criteria. Please update the variables or select a different segment."
+    }
+  ],
+  "UBJSASimMVkN5w7p": [
+    {
+      "type": 0,
+      "value": "日付の選択"
+    }
+  ],
+  "UIN1eRLqmlaXTzpW": [
+    {
+      "type": 0,
+      "value": "Targets"
+    }
+  ],
+  "UK0OoP7XF++evklW": [
+    {
+      "type": 0,
+      "value": "詳細を閉じる"
+    }
+  ],
+  "UZ1xW95v+ePFi3HE": [
+    {
+      "type": 0,
+      "value": "Column can't be "
+    },
+    {
+      "type": 5,
+      "value": "isHidden",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "shown"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "hidden"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "Ua7PnIRWAcErpii9": [
+    {
+      "type": 0,
+      "value": "ドット記法を使用している JSON 属性をフィルタリングします。例:"
+    }
+  ],
+  "UdBwDtbEgD8ojnmL": [
+    {
+      "type": 0,
+      "value": "他の人がこのセグメントを適用しました。この場合は通常、それ以外の人は使用できません。表示または削除のみ可能です。"
+    }
+  ],
+  "UfbZ4KPCt1NdycsF": [
+    {
+      "type": 0,
+      "value": "App name: "
+    },
+    {
+      "type": 1,
+      "value": "appName"
+    }
+  ],
+  "Uuc6xAAPyctyHamM": [
+    {
+      "type": 0,
+      "value": "日付ピッカー カレンダー トリガー"
+    }
+  ],
+  "V09xUXtpHEVFRBsh": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 日間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "V4fGRjKxu0XkK3nm": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 四半期"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "V6W9BJ4sF8Y+2/Si": [
+    {
+      "type": 0,
+      "value": "系列"
+    }
+  ],
+  "VL8nEatHCgCkS4Yw": [
+    {
+      "type": 0,
+      "value": "X 軸をズーム"
+    }
+  ],
+  "VTvQ7p6QQyABl+XP": [
+    {
+      "type": 0,
+      "value": "[開始] フィールドが無効です。"
+    }
+  ],
+  "VXB6h9uDSpOZsvwP": [
+    {
+      "type": 0,
+      "value": "しきい値"
+    }
+  ],
+  "VYHp9Wzie7wOmBmf": [
+    {
+      "type": 0,
+      "value": "DQL editor actions"
+    }
+  ],
+  "VimibV2KF+yA1+4y": [
+    {
+      "type": 0,
+      "value": "Documentation"
+    }
+  ],
+  "VkfutNWZVq0loZNC": [
+    {
+      "type": 0,
+      "value": "使用可能なデータがありません。"
+    }
+  ],
+  "VlyElrRtYeguIlZS": [
+    {
+      "type": 0,
+      "value": "[開始] フィールドは必須です。"
+    }
+  ],
+  "VoHb/9htaX3GgMyA": [
+    {
+      "type": 0,
+      "value": "移動"
+    }
+  ],
+  "VoqQWp9yEM0QM8eF": [
+    {
+      "type": 0,
+      "value": "前のイメージに移動します。"
+    }
+  ],
+  "Vp5mQzQ25g1cKY0D": [
+    {
+      "type": 0,
+      "value": "通知の設定"
+    }
+  ],
+  "VrWs4XmGbZ3z7a3Y": [
+    {
+      "type": 0,
+      "value": "Only times from "
+    },
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " onwards can be selected."
+    }
+  ],
+  "VsLm4+Io4PguyLI+": [
+    {
+      "type": 0,
+      "value": "等しい"
+    }
+  ],
+  "Vt7aUQHkFaDCuIqZ": [
+    {
+      "type": 0,
+      "value": "Hide "
+    },
+    {
+      "type": 1,
+      "value": "seriesName"
+    }
+  ],
+  "VwnLYpww5VUT3cdu": [
+    {
+      "type": 0,
+      "value": "非推奨"
+    }
+  ],
+  "W+rTy8UuFKDho3mc": [
+    {
+      "type": 0,
+      "value": "時間枠を選択"
+    }
+  ],
+  "W2KEm8AIcM8pOixf": [
+    {
+      "type": 0,
+      "value": "バージョン "
+    },
+    {
+      "type": 1,
+      "value": "version"
+    }
+  ],
+  "W8hOQDfAAXoNw46k": [
+    {
+      "type": 0,
+      "value": "No columns have been added."
+    }
+  ],
+  "WCZAUtmjwNCm5iwa": [
+    {
+      "type": 0,
+      "value": "アプリ ナビゲーションを開く"
+    }
+  ],
+  "WD6kswCbAgSXwMnO": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "秒"
+    }
+  ],
+  "WDNrzGxjR2Q0PO0t": [
+    {
+      "type": 0,
+      "value": "より大きい"
+    }
+  ],
+  "WGVOUOAZiBC2rWlk": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "columnId"
+    },
+    {
+      "type": 0,
+      "value": "\" 列をドラッグして順序を変更します。"
+    }
+  ],
+  "WRJRr2EVKTsJhDcc": [
+    {
+      "type": 0,
+      "value": "View details"
+    }
+  ],
+  "WgyyLcd/Xq9voOe4": [
+    {
+      "type": 0,
+      "value": "動的"
+    }
+  ],
+  "Wp5mn30lXgxkfTYx": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "WxdPgLpYTL0pyM92": [
+    {
+      "type": 0,
+      "value": "セグメントをクリア"
+    }
+  ],
+  "X9SZ3eLw4rz/ODZQ": [
+    {
+      "type": 0,
+      "value": "日時の追加"
+    }
+  ],
+  "XC7nO0JIPg0R0kBw": [
+    {
+      "type": 0,
+      "value": "日付の追加"
+    }
+  ],
+  "XOE5zKTRmqYLBnRf": [
+    {
+      "type": 1,
+      "value": "field"
+    },
+    {
+      "type": 0,
+      "value": " をコピーする"
+    }
+  ],
+  "XPLMI3aOe8TwFwJc": [
+    {
+      "type": 0,
+      "value": "非表示"
+    }
+  ],
+  "XQHEJyt2t/js0TGr": [
+    {
+      "type": 0,
+      "value": "機能のハイライトを閉じる"
+    }
+  ],
+  "XRD3go4HQunmYuM4": [
+    {
+      "type": 0,
+      "value": "\"末尾の値:\" はこのキーではサポートされていません。"
+    }
+  ],
+  "XXsHBFWgU7wZSd8V": [
+    {
+      "type": 0,
+      "value": "JSON の追加"
+    }
+  ],
+  "Xa5Fg52ZbeeGI5QQ": [
+    {
+      "type": 0,
+      "value": "There's nothing here yet"
+    }
+  ],
+  "XmYqCKn9iEfBoSSL": [
+    {
+      "type": 0,
+      "value": "Open documentation"
+    }
+  ],
+  "XsRAy7xh5JaOn0At": [
+    {
+      "type": 0,
+      "value": "Show actions for cell on row with id \""
+    },
+    {
+      "type": 1,
+      "value": "rowId"
+    },
+    {
+      "type": 0,
+      "value": "\" and column \""
+    },
+    {
+      "type": 1,
+      "value": "columnLabel"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "XsT/ArefqqEMgoPr": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " unavailable options were removed from your selection."
+    }
+  ],
+  "Xt1ikxx+KzIHLF1C": [
+    {
+      "type": 0,
+      "value": "Filter cleared."
+    }
+  ],
+  "Xug47ebOKpTzuLj1": [
+    {
+      "type": 0,
+      "value": "フォントを変更: デフォルト"
+    }
+  ],
+  "XujtZVmxX3xAIEud": [
+    {
+      "type": 0,
+      "value": "Displaying more than "
+    },
+    {
+      "type": 1,
+      "value": "limit"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "limit",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "column"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "columns"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " may slow down the table."
+    }
+  ],
+  "Xup0Ti6gaxC1KDSY": [
+    {
+      "type": 0,
+      "value": "mm"
+    }
+  ],
+  "Xxl1F0GNIQlu2LSH": [
+    {
+      "type": 0,
+      "value": "詳細情報"
+    }
+  ],
+  "Y/6wwuz1ueL+7V2j": [
+    {
+      "type": 0,
+      "value": "10 項目を超えてピン留めすることはできません。"
+    }
+  ],
+  "Y0Ru/2gdHx6uuwvl": [
+    {
+      "type": 0,
+      "value": "ツールバーを展開する"
+    }
+  ],
+  "YF5nfeV6l4Yc8Wom": [
+    {
+      "type": 0,
+      "value": "カテゴリ"
+    }
+  ],
+  "YINK0Te9FAqCqP/C": [
+    {
+      "type": 0,
+      "value": "通知を "
+    },
+    {
+      "type": 5,
+      "value": "notificationEnabled",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "オフ"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "オン"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " にします"
+    }
+  ],
+  "YTE4r9D1o7r/DV13": [
+    {
+      "type": 0,
+      "value": "An error occurred"
+    }
+  ],
+  "Yi8j4dchtpkwn/OB": [
+    {
+      "type": 0,
+      "value": "コピー"
+    }
+  ],
+  "YithM+0sfIXQLp9+": [
+    {
+      "type": 0,
+      "value": "サブ行すべてを"
+    },
+    {
+      "type": 5,
+      "value": "expandState",
+      "options": {
+        "expand": {
+          "value": [
+            {
+              "type": 0,
+              "value": "展開する"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "折りたたむ"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "Ym3RUHtaLVFsGlaM": [
+    {
+      "type": 1,
+      "value": "label"
+    },
+    {
+      "type": 0,
+      "value": " パネルのサイズを変更"
+    }
+  ],
+  "YqEOqKR9iZt3qY0t": [
+    {
+      "type": 0,
+      "value": "テーブル データをダウンロード中"
+    }
+  ],
+  "Yqddnqu0j85Q2t1a": [
+    {
+      "type": 0,
+      "value": "You'll soon need some additional permissions to continue using segments"
+    }
+  ],
+  "ZFLXYT4zoCbKvGNP": [
+    {
+      "type": 0,
+      "value": "セグメントに関する詳細"
+    }
+  ],
+  "ZGvbau7roOR3vlCG": [
+    {
+      "type": 0,
+      "value": "ピン留め解除"
+    }
+  ],
+  "ZPbrUFNIWY7HMYqK": [
+    {
+      "type": 0,
+      "value": "Filter by"
+    }
+  ],
+  "ZWPrrKMJtr2S3Kx9": [
+    {
+      "type": 0,
+      "value": "The segment values couldn't be fetched. Either keep the selection or remove the segment."
+    }
+  ],
+  "ZXc/wALoec4K+9qJ": [
+    {
+      "type": 0,
+      "value": "Collapse all parents ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "ZXhOSGc1luMsD1rC": [
+    {
+      "type": 0,
+      "value": "No timestamps available."
+    }
+  ],
+  "Za5bQfBDnyyur0mw": [
+    {
+      "type": 0,
+      "value": "クエリをキャンセル"
+    }
+  ],
+  "Zc+msrZVGPNk84Lu": [
+    {
+      "type": 0,
+      "value": "末尾"
+    }
+  ],
+  "ZhUT5iq6+B7hRPfb": [
+    {
+      "type": 5,
+      "value": "isHidden",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Show"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Hide"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " column"
+    }
+  ],
+  "ZqPD+GJnri7vlLul": [
+    {
+      "type": 0,
+      "value": "サポートされている値:実行時間"
+    }
+  ],
+  "Zr87lY6T9UiaWuMD": [
+    {
+      "type": 0,
+      "value": "入力を開始して、"
+    },
+    {
+      "type": 1,
+      "value": "suggestionType"
+    },
+    {
+      "type": 0,
+      "value": " を入力してください。"
+    }
+  ],
+  "ZrxrsiqabWfxne/q": [
+    {
+      "type": 0,
+      "value": "Markdown の追加"
+    }
+  ],
+  "ZsZq59BFxrIW5JzO": [
+    {
+      "type": 5,
+      "value": "isUnpinned",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "列のピン留め"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "列のピン留め/ピン留め解除"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "ZvsC1dVcKeywqOWW": [
+    {
+      "type": 0,
+      "value": "実行時間"
+    }
+  ],
+  "a9uVGc0cPE1OqAJj": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "午前/午後"
+    }
+  ],
+  "aB3uCeB71q6UURBy": [
+    {
+      "type": 0,
+      "value": "モーダルを閉じる"
+    }
+  ],
+  "aGMowcWvdm+5M63D": [
+    {
+      "type": 0,
+      "value": "このセグメントは変数を使用しなくなりました。[適用] をクリックして更新してください。"
+    }
+  ],
+  "aNWYfuuoyg/TEftI": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 時間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "aNafGo8pDA0dJBLo": [
+    {
+      "type": 0,
+      "value": "テキスト"
+    }
+  ],
+  "aP5zePnHhLCSP5Ar": [
+    {
+      "type": 0,
+      "value": "Row order"
+    }
+  ],
+  "aRc3KoQgfpti2E9M": [
+    {
+      "type": 0,
+      "value": "月の選択"
+    }
+  ],
+  "aUi1nca6cF4KJPSw": [
+    {
+      "type": 0,
+      "value": "この位置に位置演算子を置くことはできません。"
+    }
+  ],
+  "aYOFXw5HKPdKKWSu": [
+    {
+      "type": 0,
+      "value": "コピーされました"
+    }
+  ],
+  "af0kT/X4xYo3usY+": [
+    {
+      "type": 0,
+      "value": "選択にズームする"
+    }
+  ],
+  "ait1f+4Ly9rcloeq": [
+    {
+      "type": 0,
+      "value": "実行時間"
+    }
+  ],
+  "aj7w8W3lv+e41SJB": [
+    {
+      "type": 0,
+      "value": "フィルターを"
+    },
+    {
+      "type": 5,
+      "value": "isPinned",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ピン留め解除"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ピン留めする"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "ajJBzmvnE0ruvyfn": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは SmartscapeId のみがサポートされています。"
+    }
+  ],
+  "an4qwOaAQd8t60m5": [
+    {
+      "type": 0,
+      "value": "行を"
+    },
+    {
+      "type": 5,
+      "value": "isActivated",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "非アクティブ化"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "アクティブ化"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": "する (ID \""
+    },
+    {
+      "type": 1,
+      "value": "rowId"
+    },
+    {
+      "type": 0,
+      "value": "\" のもの)。"
+    }
+  ],
+  "anCkyfyzovTz3qtv": [
+    {
+      "type": 0,
+      "value": "DQL syntax"
+    }
+  ],
+  "aqGvcDl8n+XdhJiq": [
+    {
+      "type": 1,
+      "value": "hiddenColumnCount"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "hiddenColumnCount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "列"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " が非表示"
+    }
+  ],
+  "aqgV26FymxiNNhI0": [
+    {
+      "type": 0,
+      "value": "Total"
+    }
+  ],
+  "arDem4VUr6iNJ1A3": [
+    {
+      "type": 0,
+      "value": "縮小"
+    }
+  ],
+  "b+Rx1jqDkljv85d6": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Showing "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " column"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Showing all "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " columns"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "b16Ain2TkJO1zJU6": [
+    {
+      "type": 0,
+      "value": "Set end time to now"
+    }
+  ],
+  "b3m7oGWQvhJWsjD9": [
+    {
+      "type": 0,
+      "value": "Learn more about the Timeframe Selector"
+    }
+  ],
+  "b5WOrn1oLsbJsvD8": [
+    {
+      "type": 0,
+      "value": "降順に変更"
+    }
+  ],
+  "b8jNkkwzLHYDkasb": [
+    {
+      "type": 5,
+      "value": "isExpanded",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "少なく"
+            }
+          ]
+        },
+        "false": {
+          "value": [
+            {
+              "type": 0,
+              "value": "さらに"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": "表示"
+    }
+  ],
+  "bIs/Bx2b6NyF7Hpe": [
+    {
+      "type": 0,
+      "value": "Syntax:"
+    }
+  ],
+  "bcWSc6WnMqjdtQrM": [
+    {
+      "type": 0,
+      "value": "Environment: "
+    },
+    {
+      "type": 1,
+      "value": "environmentId"
+    }
+  ],
+  "bvs68jg9q7RnuWgF": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 個のデータポイント"
+    }
+  ],
+  "bvvqbArXvzAMOUit": [
+    {
+      "type": 0,
+      "value": "右にスライド"
+    }
+  ],
+  "bx7cExKj4X9tpZgs": [
+    {
+      "type": 0,
+      "value": "詳細をコピーして、管理者に共有してください。"
+    }
+  ],
+  "cBlxys3qfILuKMaG": [
+    {
+      "type": 1,
+      "value": "min"
+    },
+    {
+      "type": 0,
+      "value": " から "
+    },
+    {
+      "type": 1,
+      "value": "max"
+    },
+    {
+      "type": 0,
+      "value": " までの日付のみを使用できます。"
+    }
+  ],
+  "cilisOHA0Q0L+ZDh": [
+    {
+      "type": 0,
+      "value": "Filter is already selected"
+    }
+  ],
+  "cycz+bYG+VH7Of4e": [
+    {
+      "type": 0,
+      "value": "ロードしています"
+    }
+  ],
+  "d4ODG2WkdaedSe5s": [
+    {
+      "type": 0,
+      "value": "検索候補"
+    }
+  ],
+  "d7CsKWrzLvzuObN6": [
+    {
+      "type": 0,
+      "value": "[終了] フィールドは必須です。"
+    }
+  ],
+  "dBHTi/uZSdvpQ2Zu": [
+    {
+      "type": 0,
+      "value": "Only times starting from \"Now\" can be selected."
+    }
+  ],
+  "dDHj3yQ8W+M8/6Cy": [
+    {
+      "type": 0,
+      "value": "Package"
+    }
+  ],
+  "dIZIXjFpJvLPz3+g": [
+    {
+      "type": 0,
+      "value": "から"
+    }
+  ],
+  "dTJ8Pdj8Xm9Uh9Y+": [
+    {
+      "type": 0,
+      "value": "ツールバーを折りたたむ"
+    }
+  ],
+  "dokXtjZU6w2uBddc": [
+    {
+      "type": 0,
+      "value": "Suggestions open with "
+    },
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " option"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " options"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": ". Continue typing to update suggestions."
+    }
+  ],
+  "du5yfafT13+UzKPI": [
+    {
+      "type": 0,
+      "value": "Expand all parents ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "dxcsnLOTenNXGZkn": [
+    {
+      "type": 0,
+      "value": "行の折り返しを無効にする"
+    }
+  ],
+  "dyadgwpDBQLyqJaa": [
+    {
+      "type": 0,
+      "value": "先頭に使用できない"
+    }
+  ],
+  "e2L/mGCBvRqDTvq2": [
+    {
+      "type": 0,
+      "value": "すべてクリア"
+    }
+  ],
+  "eII4gA0InOVMB0Uh": [
+    {
+      "type": 0,
+      "value": "候補はありません。"
+    }
+  ],
+  "eJrsgl5/4XpLIWxo": [
+    {
+      "type": 0,
+      "value": "あなたに割り当てられているアクセス制御ポリシーにより、セグメントの使用は許可されていません。"
+    }
+  ],
+  "eONO7S5ZXY7V+R6d": [
+    {
+      "type": 0,
+      "value": "他のオプション"
+    }
+  ],
+  "eYRqhWFzgj9ne5TC": [
+    {
+      "type": 0,
+      "value": "変数の最初の列は配列にできません。"
+    }
+  ],
+  "eZkDqSXP6kwDUc5d": [
+    {
+      "type": 0,
+      "value": "無効な時間枠"
+    }
+  ],
+  "euRey+Fz9NxskAuO": [
+    {
+      "type": 0,
+      "value": "キャンセル"
+    }
+  ],
+  "ewgHQuXKDMK7CzyQ": [
+    {
+      "type": 0,
+      "value": "から"
+    }
+  ],
+  "f4/NcUWxDYnAQ68s": [
+    {
+      "type": 0,
+      "value": "CSV としてダウンロード"
+    }
+  ],
+  "fE+5JaLlWXQ3dlNm": [
+    {
+      "type": 0,
+      "value": "フォントを変更: モノスペース"
+    }
+  ],
+  "fHGjouAXIpSTl8T2": [
+    {
+      "type": 0,
+      "value": "終了"
+    }
+  ],
+  "fIr5C8WQPnYfAMr5": [
+    {
+      "type": 0,
+      "value": "コードの追加"
+    }
+  ],
+  "fJPc1Tw4jSAEp5KQ": [
+    {
+      "type": 0,
+      "value": "末尾の値が次ではない: "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "fLfhKO8cXlo3vW5M": [
+    {
+      "type": 0,
+      "value": "リクエストされた型 ("
+    },
+    {
+      "type": 1,
+      "value": "type"
+    },
+    {
+      "type": 0,
+      "value": ") に一致する値を指定してください。"
+    }
+  ],
+  "fMy6q/KKOqbvCA3H": [
+    {
+      "type": 0,
+      "value": "開始日時"
+    }
+  ],
+  "fPUB5vClKDIHCWeZ": [
+    {
+      "type": 0,
+      "value": "Copy"
+    }
+  ],
+  "fQslxGk33mj93GKb": [
+    {
+      "type": 0,
+      "value": "Wizard steps"
+    }
+  ],
+  "fg8x33u8t5tYtlE9": [
+    {
+      "type": 0,
+      "value": "JavaScript の追加"
+    }
+  ],
+  "fhA473CUMyXpVWiB": [
+    {
+      "type": 0,
+      "value": "Suggestions open with "
+    },
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " option"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " options"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": ". Continue typing to update suggestions, "
+    },
+    {
+      "type": 1,
+      "value": "filterText"
+    }
+  ],
+  "fzkORq3AsvX/NtMB": [
+    {
+      "type": 0,
+      "value": "了解"
+    }
+  ],
+  "g1uJ6PuX78GYkCnv": [
+    {
+      "type": 0,
+      "value": "通知を作成できませんでした"
+    }
+  ],
+  "g2fLjUNdQ/qPFLMn": [
+    {
+      "type": 6,
+      "value": "noOfRows",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " row"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " rows"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "gIQd1giAq7WNDZp6": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 日間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "gJo6Pm1rBw056PsG": [
+    {
+      "type": 0,
+      "value": "All columns hidden"
+    }
+  ],
+  "gVTqz8lR6St4GyrT": [
+    {
+      "type": 0,
+      "value": "Set start time to now"
+    }
+  ],
+  "gWxS/SvdlKY80JRI": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "gbREY3JeG/Gnn5VH": [
+    {
+      "type": 1,
+      "value": "suggestionsLength"
+    },
+    {
+      "type": 0,
+      "value": " の候補があります: "
+    },
+    {
+      "type": 1,
+      "value": "combinedSuggestions"
+    }
+  ],
+  "gg76gjIy5leuPbMT": [
+    {
+      "type": 0,
+      "value": "エラー (クリックして再試行)"
+    }
+  ],
+  "ggfg/kIzwBCNyGCm": [
+    {
+      "type": 0,
+      "value": "オプションの選択"
+    }
+  ],
+  "gnKOHMjpyzk6hNcF": [
+    {
+      "type": 0,
+      "value": "開始時間"
+    }
+  ],
+  "goXPTTmE++ZY6g8I": [
+    {
+      "type": 0,
+      "value": "Filter conflicts with current selection"
+    }
+  ],
+  "grMCOLy6cDAqdO7V": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "column"
+    },
+    {
+      "type": 0,
+      "value": "\" 列のサイズ変更"
+    }
+  ],
+  "gzgHXY7+xENWvOfC": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 年間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "hIBEZw/eT6Nb+dz3": [
+    {
+      "type": 0,
+      "value": "(読み取り専用)"
+    }
+  ],
+  "hIK5810KwQytwP1q": [
+    {
+      "type": 0,
+      "value": "このフィールドに入力してください。"
+    }
+  ],
+  "hguogF8+gPsmp5AG": [
+    {
+      "type": 0,
+      "value": "Copy the details and share them with your admin."
+    }
+  ],
+  "hi3IodOo0ygpihhY": [
+    {
+      "type": 0,
+      "value": "実行中"
+    }
+  ],
+  "hnsZ5MLEj9V3vVxP": [
+    {
+      "type": 0,
+      "value": "カスタム時間枠を提供するか、プリセットの中から 1 つ選択するための時間枠セレクター オーバーレイ"
+    }
+  ],
+  "i/cxuYRtkf4OrTvH": [
+    {
+      "type": 0,
+      "value": "Expandable rows"
+    }
+  ],
+  "i7ML7nsvim1vfXlT": [
+    {
+      "type": 0,
+      "value": "Close"
+    }
+  ],
+  "i9b4Uh/5oQGQyPSm": [
+    {
+      "type": 0,
+      "value": "Download"
+    }
+  ],
+  "iN3ZVFNmBN0hzG0I": [
+    {
+      "type": 0,
+      "value": "拡大"
+    }
+  ],
+  "iNTLXOTc44beRj/7": [
+    {
+      "type": 0,
+      "value": "Filters on "
+    },
+    {
+      "type": 6,
+      "value": "fieldsCount",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "a field"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "fields"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " this tenant has no "
+    },
+    {
+      "type": 1,
+      "value": "sources"
+    },
+    {
+      "type": 0,
+      "value": " data for:"
+    },
+    {
+      "type": 8,
+      "value": "detail",
+      "children": [
+        {
+          "type": 0,
+          "value": " "
+        },
+        {
+          "type": 1,
+          "value": "fields"
+        },
+        {
+          "type": 0,
+          "value": "."
+        }
+      ]
+    }
+  ],
+  "iO0lZy6i8mjT0jzt": [
+    {
+      "type": 0,
+      "value": "昇順に変更"
+    }
+  ],
+  "iQMNfVmL/0auzXXf": [
+    {
+      "type": 0,
+      "value": "フィルター構文を適用"
+    }
+  ],
+  "ibW/chmVU64qftcF": [
+    {
+      "type": 0,
+      "value": "通知を作成できませんでした。通知の種類 "
+    },
+    {
+      "type": 1,
+      "value": "notificationType"
+    },
+    {
+      "type": 0,
+      "value": " の制限に達しました。"
+    }
+  ],
+  "iuy+4WgQ89QDvgl+": [
+    {
+      "type": 0,
+      "value": "ピン留め済みのフィルター"
+    }
+  ],
+  "iygPRzX1n+gL7TLR": [
+    {
+      "type": 0,
+      "value": "セグメントのロード中"
+    }
+  ],
+  "j7ELo0pUXF1X46+R": [
+    {
+      "type": 0,
+      "value": "このワイルドカード演算子は、このキーには無効です。"
+    }
+  ],
+  "jT47SZ4EuoZYSr9x": [
+    {
+      "type": 0,
+      "value": "含まない"
+    }
+  ],
+  "jZte4Ia6a1UkBwpv": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " か月間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "jc4XDeI4sf7aLs2W": [
+    {
+      "type": 0,
+      "value": "値"
+    }
+  ],
+  "jishWwgadkdK/YkI": [
+    {
+      "type": 0,
+      "value": "通知ボタンの通知のオーバーレイの切り替え"
+    }
+  ],
+  "jrVbPKGmxrR1NB9u": [
+    {
+      "type": 0,
+      "value": "Apply"
+    }
+  ],
+  "jtrx2KCeXnLeA8Kd": [
+    {
+      "type": 0,
+      "value": "フィルター フィールド ステートメントが不完全です。"
+    }
+  ],
+  "k+MFecbA4aJKNSbM": [
+    {
+      "type": 0,
+      "value": "データが提供されていません。"
+    }
+  ],
+  "k+a+zH/n3HXJex9e": [
+    {
+      "type": 0,
+      "value": "Show "
+    },
+    {
+      "type": 1,
+      "value": "seriesName"
+    }
+  ],
+  "k1Ux+CdMPZAz2/QP": [
+    {
+      "type": 0,
+      "value": "Remove filters for "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    }
+  ],
+  "k21q5kyTS9rGFWLF": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Showing "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " option"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Showing all "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " options"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "k3/OeMKig2l4gCEJ": [
+    {
+      "type": 0,
+      "value": "数値"
+    }
+  ],
+  "k40pOx4l09BF5wXl": [
+    {
+      "type": 0,
+      "value": "Not-contains is not supported for this key."
+    }
+  ],
+  "kCk8ZqQbTzdkw3WN": [
+    {
+      "type": 0,
+      "value": "サブ行を"
+    },
+    {
+      "type": 5,
+      "value": "expandState",
+      "options": {
+        "expand": {
+          "value": [
+            {
+              "type": 0,
+              "value": "展開する"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "折りたたむ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " (ID \""
+    },
+    {
+      "type": 1,
+      "value": "id"
+    },
+    {
+      "type": 0,
+      "value": "\" のもの)。"
+    }
+  ],
+  "kJoB/TOPK5EUjeIE": [
+    {
+      "type": 0,
+      "value": "Message: Missing permissions for "
+    },
+    {
+      "type": 1,
+      "value": "appName"
+    }
+  ],
+  "kOQNUENAg02eeaTY": [
+    {
+      "type": 0,
+      "value": "開始"
+    }
+  ],
+  "kbjLqK2W/E1NyaKH": [
+    {
+      "type": 0,
+      "value": "Y 値"
+    }
+  ],
+  "kctf0+Hea33LxYTL": [
+    {
+      "type": 0,
+      "value": "フィルター値がありません。"
+    }
+  ],
+  "kq1Ips7kEIlJ2yFv": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "column"
+    },
+    {
+      "type": 0,
+      "value": "\" 列のソートを"
+    },
+    {
+      "type": 5,
+      "value": "direction",
+      "options": {
+        "asc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "昇順"
+            }
+          ]
+        },
+        "desc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "降順"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "設定解除"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": "に変更するか、またはドラッグして \""
+    },
+    {
+      "type": 1,
+      "value": "column"
+    },
+    {
+      "type": 0,
+      "value": "\" 列の順番を変更します。"
+    }
+  ],
+  "ktoTdX660gW5R80Z": [
+    {
+      "type": 0,
+      "value": "ss"
+    }
+  ],
+  "l1RC/QWjUJWHIM++": [
+    {
+      "type": 0,
+      "value": "位置演算子は二重引用符の前か後にのみ置いてください。両方に置くことはできません。"
+    }
+  ],
+  "l8fOdr9WXExJDZAY": [
+    {
+      "type": 0,
+      "value": "Use"
+    },
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": "as value with wildcard"
+    }
+  ],
+  "l99kSRjiLY8vJnRN": [
+    {
+      "type": 0,
+      "value": "Show column actions for \""
+    },
+    {
+      "type": 1,
+      "value": "column"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "lCYAKjQqWpqlsSEs": [
+    {
+      "type": 0,
+      "value": "CSV としてダウンロード"
+    }
+  ],
+  "lLbR2C5+S97CTJ4v": [
+    {
+      "type": 0,
+      "value": "キーまたは値に予約文字を含めることはできません。その文字の前に円記号 (\\) を追加するか、文字列全体を二重引用符で囲んでエスケープしてください。"
+    }
+  ],
+  "lRK2dLUUE9/bk2MW": [
+    {
+      "type": 0,
+      "value": "Click to access actions"
+    }
+  ],
+  "laIylhVFbIvEZrxt": [
+    {
+      "type": 0,
+      "value": "このフィールドに入力してください。"
+    }
+  ],
+  "lrDYNZ+hnaBD30/j": [
+    {
+      "type": 0,
+      "value": "不完全なフィルター式です。有効な式は、キー、比較演算子、値で構成されます。または、すべてのデータでこのフレーズを検索するには、先頭に "
+    },
+    {
+      "type": 1,
+      "value": "operator"
+    },
+    {
+      "type": 0,
+      "value": " を追加します。"
+    }
+  ],
+  "lu2hmVHtfcnVRPtz": [
+    {
+      "type": 0,
+      "value": "ページあたり行数"
+    }
+  ],
+  "ly03uOR7VGcWb+pG": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 年間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "ly1XN52z5b521OrX": [
+    {
+      "type": 0,
+      "value": "Duplicate"
+    }
+  ],
+  "m5UDM9ivObqqdmnm": [
+    {
+      "type": 0,
+      "value": "Invalid formats for start and end time. Enter an exact date and time (01/01/2000, 00:00) or a relative expression (now-2h)."
+    }
+  ],
+  "m5z+3UJ4Q3absAi5": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 四半期"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "mB6lj7xb72uw8BL2": [
+    {
+      "type": 0,
+      "value": "Expand sidebar"
+    }
+  ],
+  "mG+nMDkU8bB8zLlO": [
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 秒間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "mS6CPzO+pMJLetSA": [
+    {
+      "type": 0,
+      "value": "フィルターのクリア"
+    }
+  ],
+  "mSrICwXdDHSlEwIq": [
+    {
+      "type": 0,
+      "value": "更新についてメールで通知されることはありません。"
+    }
+  ],
+  "mTmhCH1Z7z3TY8Jo": [
+    {
+      "type": 0,
+      "value": "\""
+    },
+    {
+      "type": 1,
+      "value": "column"
+    },
+    {
+      "type": 0,
+      "value": "\" 列のソートを"
+    },
+    {
+      "type": 5,
+      "value": "direction",
+      "options": {
+        "asc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "昇順"
+            }
+          ]
+        },
+        "desc": {
+          "value": [
+            {
+              "type": 0,
+              "value": "降順"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "設定解除"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": "に変更"
+    }
+  ],
+  "mXDFppLKSC7oX/Ba": [
+    {
+      "type": 0,
+      "value": "次の値を含まない: "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "mYmd/xMZulbADHsY": [
+    {
+      "type": 5,
+      "value": "isExpanded",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "未満"
+            }
+          ]
+        },
+        "false": {
+          "value": [
+            {
+              "type": 0,
+              "value": "超過"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " を表示"
+    }
+  ],
+  "mYn9mGgSX9a2yDnQ": [
+    {
+      "type": 0,
+      "value": "End time must be after start time. Enter an end time later than "
+    },
+    {
+      "type": 1,
+      "value": "startTime"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "miecKI74dxONRE98": [
+    {
+      "type": 0,
+      "value": "Clear "
+    },
+    {
+      "type": 5,
+      "value": "sortDirection",
+      "options": {
+        "ascending": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ascending"
+            }
+          ]
+        },
+        "descending": {
+          "value": [
+            {
+              "type": 0,
+              "value": "descending"
+            }
+          ]
+        },
+        "other": {
+          "value": []
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " sort order to drag and drop rows"
+    }
+  ],
+  "ml+Pyzyh+p8TWy3Z": [
+    {
+      "type": 0,
+      "value": "Unpinned"
+    }
+  ],
+  "mscZH1VbXmfXn9BL": [
+    {
+      "type": 0,
+      "value": "拡大"
+    }
+  ],
+  "mtKUJAn0mf0dbG4E": [
+    {
+      "type": 0,
+      "value": "あなたに割り当てられているアクセス制御ポリシーにより、セグメントの読み取りや適用は許可されていません。"
+    }
+  ],
+  "n17DpsKydU3rdqK9": [
+    {
+      "type": 0,
+      "value": "テーブル データのダウンロード"
+    }
+  ],
+  "n1zi/yl5dOaxTrfN": [
+    {
+      "type": 0,
+      "value": "Reset"
+    }
+  ],
+  "n3kHNMq0wIDbAVfm": [
+    {
+      "type": 0,
+      "value": "Current page"
+    }
+  ],
+  "nDzGVBRq+V8ulNuu": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 個のデータ ポイント"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " ("
+    },
+    {
+      "type": 1,
+      "value": "seriesCount"
+    },
+    {
+      "type": 0,
+      "value": " 個の系列中)"
+    }
+  ],
+  "nFNlJgG5/jxCoNdB": [
+    {
+      "type": 0,
+      "value": "Create something to get started."
+    }
+  ],
+  "nIw/xeiGNJsj+a+5": [
+    {
+      "type": 0,
+      "value": "このセグメントに一致する値はありません。"
+    }
+  ],
+  "nNhGwqwcL0EfGw1A": [
+    {
+      "type": 0,
+      "value": "Download"
+    }
+  ],
+  "nS4QPK3zNih9UAZs": [
+    {
+      "type": 0,
+      "value": "位置演算子と比較子の組み合わせが無効です。使用できる比較子は次のとおりです: =、!="
+    }
+  ],
+  "nZk5lg177+CQcO/Z": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "年"
+    }
+  ],
+  "nmpm8vHUzqSQseVK": [
+    {
+      "type": 0,
+      "value": "No results found"
+    }
+  ],
+  "npzzIhowJGIZhj8d": [
+    {
+      "type": 0,
+      "value": "ドキュメント"
+    }
+  ],
+  "nt9FnUYyS/Otapls": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "No rows selected"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " row selected"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " rows selected"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "ntRg2/q/0hsoJ9+r": [
+    {
+      "type": 0,
+      "value": "パン モード"
+    }
+  ],
+  "nwlCPRYNTOEFpb9x": [
+    {
+      "type": 0,
+      "value": "Row selection"
+    }
+  ],
+  "o3A99RFWS+N7bJe8": [
+    {
+      "type": 0,
+      "value": "詳細"
+    }
+  ],
+  "oA42meteX3Ww5Zo5": [
+    {
+      "type": 0,
+      "value": "アプリ ナビゲーション"
+    }
+  ],
+  "oDh+EhNRRqQQkNAS": [
+    {
+      "type": 0,
+      "value": "昇順として追加"
+    }
+  ],
+  "oSKhN7fSy19ei878": [
+    {
+      "type": 0,
+      "value": "セグメントの選択"
+    }
+  ],
+  "oVgkJujKiRvYqIFQ": [
+    {
+      "type": 0,
+      "value": "適用"
+    }
+  ],
+  "ovlsWnQ6TNpxUzyF": [
+    {
+      "type": 0,
+      "value": "一致するセグメントが見つかりませんでした。セグメントの値を探す場合、まずセグメントを選択してください。"
+    }
+  ],
+  "p5Aa2CtWutuGwudB": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "past": {
+          "value": [
+            {
+              "type": 0,
+              "value": "過去"
+            }
+          ]
+        },
+        "future": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "relativeFuture": {
+          "value": [
+            {
+              "type": 0,
+              "value": "今後"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "offset",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 週間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 1,
+      "value": "suffix"
+    }
+  ],
+  "p7QNWYWAN7FysSqc": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " diagnostics: "
+    },
+    {
+      "type": 1,
+      "value": "list"
+    }
+  ],
+  "p9kOQBgxWYepT8B0": [
+    {
+      "type": 0,
+      "value": "Invalid format for start time. Enter an exact date and time (01/01/2000, 00:00) or a relative expression (now-2h)."
+    }
+  ],
+  "pFUmTVhQadk/rQkO": [
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": " をキーとして使用"
+    }
+  ],
+  "pGR/6J+2uPcvCSju": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "分"
+    }
+  ],
+  "pJzqfzmBdDOee48O": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " child"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " children"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "pRBtzsvqzp1/QqAV": [
+    {
+      "type": 0,
+      "value": "年の選択"
+    }
+  ],
+  "pZYcJHuudIiUoTQ3": [
+    {
+      "type": 0,
+      "value": "Values"
+    }
+  ],
+  "peQntgQSmqMbRmBI": [
+    {
+      "type": 0,
+      "value": "Use a period as the decimal separator (for example, 3.5)"
+    }
+  ],
+  "psQtWNyQryNFymrs": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 個のデータ ポイント"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " ("
+    },
+    {
+      "type": 6,
+      "value": "seriesCount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 個のカテゴリ"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " 中)"
+    }
+  ],
+  "q/AKqzat66d0tRr7": [
+    {
+      "type": 0,
+      "value": "セグメントでフィルタリング"
+    }
+  ],
+  "q6Qpv+TlJYpXYYtY": [
+    {
+      "type": 0,
+      "value": "Covers entities, but this tenant has no data for the entity "
+    },
+    {
+      "type": 6,
+      "value": "entityTypesCount",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "type"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "types"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    },
+    {
+      "type": 0,
+      "value": " this view needs:"
+    },
+    {
+      "type": 8,
+      "value": "detail",
+      "children": [
+        {
+          "type": 0,
+          "value": " "
+        },
+        {
+          "type": 1,
+          "value": "entityTypes"
+        },
+        {
+          "type": 0,
+          "value": "."
+        }
+      ]
+    }
+  ],
+  "q9YfvvFrRo1n8wvN": [
+    {
+      "type": 0,
+      "value": "詳細"
+    }
+  ],
+  "qDnh6SFkeo10shlI": [
+    {
+      "type": 0,
+      "value": "少なくとも 1 つの値を選択する必要があります。"
+    }
+  ],
+  "qES7K18UnrsWPhwk": [
+    {
+      "type": 0,
+      "value": "Only times up to "
+    },
+    {
+      "type": 1,
+      "value": "max"
+    },
+    {
+      "type": 0,
+      "value": " can be selected."
+    }
+  ],
+  "qEw4R8BQ3vYI7C8R": [
+    {
+      "type": 0,
+      "value": "欠落している権限をコピー"
+    }
+  ],
+  "qPeX7AgKbKzBFqGZ": [
+    {
+      "type": 0,
+      "value": "Please match the format requested."
+    }
+  ],
+  "qPzGHg9brPNd2hfH": [
+    {
+      "type": 0,
+      "value": "Try in Playground"
+    }
+  ],
+  "qZC6v+YzE6aXQpMY": [
+    {
+      "type": 6,
+      "value": "count",
+      "options": {
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " column found"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " columns found"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "qaLZ4aarcOTcU5gN": [
+    {
+      "type": 0,
+      "value": "User ID: "
+    },
+    {
+      "type": 1,
+      "value": "userId"
+    }
+  ],
+  "qmg3pklvpZVXsOtz": [
+    {
+      "type": 0,
+      "value": "Fetch"
+    }
+  ],
+  "qoM4Je2O4h920xx0": [
+    {
+      "type": 0,
+      "value": "値が 0 のため、表示できるデータはありません"
+    }
+  ],
+  "qpf+aqg3hXoviypu": [
+    {
+      "type": 0,
+      "value": "日付を選択するためのカレンダー"
+    }
+  ],
+  "r/XpT4mat98jCrup": [
+    {
+      "type": 0,
+      "value": "無効な時間です。想定される形式: "
+    },
+    {
+      "type": 1,
+      "value": "expectedFormat"
+    },
+    {
+      "type": 0,
+      "value": "、-2h、または -2d@d"
+    }
+  ],
+  "r2QQIGUPC6lQhGDf": [
+    {
+      "type": 0,
+      "value": "論理演算子の候補"
+    }
+  ],
+  "r3yl8iiNQEDjjS+I": [
+    {
+      "type": 0,
+      "value": "昨日"
+    }
+  ],
+  "rR+xf1BGWvDgZVww": [
+    {
+      "type": 0,
+      "value": "詳細ビュー"
+    }
+  ],
+  "rbCIHkUfwsQ9x/Xh": [
+    {
+      "type": 0,
+      "value": "Contact your admin for more information."
+    }
+  ],
+  "rbpjLUmDO54ZfX8x": [
+    {
+      "type": 0,
+      "value": "Try adjusting your timeframe or filters."
+    }
+  ],
+  "rfUQCaEOsY282TT4": [
+    {
+      "type": 0,
+      "value": "フィルター キーが無効です。"
+    }
+  ],
+  "ribjStwbokU3jZN1": [
+    {
+      "type": 0,
+      "value": "User email: "
+    },
+    {
+      "type": 1,
+      "value": "email"
+    }
+  ],
+  "rilMmuTx1q34cH6K": [
+    {
+      "type": 0,
+      "value": "通知の設定"
+    }
+  ],
+  "rm7eAPvUS8J1G8TZ": [
+    {
+      "type": 0,
+      "value": "[終了] フィールドが無効です。"
+    }
+  ],
+  "rrkUQoVNb46Jbd/8": [
+    {
+      "type": 0,
+      "value": "数値の追加"
+    }
+  ],
+  "s/C94DAW5sfrWYkU": [
+    {
+      "type": 0,
+      "value": "末尾の値: "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "s5Lt46SkAWGGaNDe": [
+    {
+      "type": 0,
+      "value": "Volume (% of total)"
+    }
+  ],
+  "sAS3aHsvApXTajqr": [
+    {
+      "type": 0,
+      "value": "現在"
+    }
+  ],
+  "sGxf5yRVhyC8Fpo/": [
+    {
+      "type": 0,
+      "value": "終了時間"
+    }
+  ],
+  "sI/bFgg4u46KiHYZ": [
+    {
+      "type": 0,
+      "value": "～"
+    }
+  ],
+  "sITxaoPwIvMbTOY3": [
+    {
+      "type": 5,
+      "value": "years",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "years",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " 年間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 5,
+      "value": "months",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "months",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " か月間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 5,
+      "value": "days",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "days",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " 日間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 5,
+      "value": "hours",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "hours",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " 時間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 5,
+      "value": "minutes",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "minutes",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " 分間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 5,
+      "value": "seconds",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "seconds",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " 秒間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 5,
+      "value": "milliseconds",
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": " "
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 6,
+              "value": "milliseconds",
+              "options": {
+                "other": {
+                  "value": [
+                    {
+                      "type": 7
+                    },
+                    {
+                      "type": 0,
+                      "value": " ミリ秒間 "
+                    }
+                  ]
+                }
+              },
+              "offset": 0,
+              "pluralType": "cardinal"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sJeuQTGrzcMvd6fY": [
+    {
+      "type": 0,
+      "value": "このテキストを "
+    },
+    {
+      "type": 1,
+      "value": "minLength"
+    },
+    {
+      "type": 0,
+      "value": " 文字以上に長くしてください。"
+    }
+  ],
+  "sSf0lHN0h4mZD8r2": [
+    {
+      "type": 0,
+      "value": "Showing "
+    },
+    {
+      "type": 1,
+      "value": "visible"
+    },
+    {
+      "type": 0,
+      "value": " out of "
+    },
+    {
+      "type": 1,
+      "value": "total"
+    }
+  ],
+  "sml/MjQVnkAeawyF": [
+    {
+      "type": 0,
+      "value": "座標"
+    }
+  ],
+  "stPGS1LgPweLqQcm": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは ISO8601 形式のタイムスタンプのみがサポートされています。"
+    }
+  ],
+  "swS1rIU8VQep1PDq": [
+    {
+      "type": 0,
+      "value": "フィルター フィールド"
+    }
+  ],
+  "t0ve6cNPN7a5sNIK": [
+    {
+      "type": 0,
+      "value": "Finish"
+    }
+  ],
+  "tC4AzRIolPCwyigk": [
+    {
+      "type": 0,
+      "value": "'in' 演算子は、値をコンマで区切って、全体をかっこで囲む必要があります。"
+    }
+  ],
+  "tChYdhQqWeoYUZrd": [
+    {
+      "type": 0,
+      "value": "含む"
+    }
+  ],
+  "tDvUEsdbUj+XNZTR": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "tF7SFYalNuZIFV5Z": [
+    {
+      "type": 0,
+      "value": "List hidden columns ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "tSs2tyafv8WOwku3": [
+    {
+      "type": 0,
+      "value": "Back"
+    }
+  ],
+  "tT1Q91yIBC2+wpsM": [
+    {
+      "type": 0,
+      "value": "ページ サイズの選択"
+    }
+  ],
+  "tWdgBWwThCCe7Tum": [
+    {
+      "type": 1,
+      "value": "seriesName"
+    },
+    {
+      "type": 0,
+      "value": " hidden"
+    }
+  ],
+  "tfHTZkRc7sr/Ypcl": [
+    {
+      "type": 0,
+      "value": "終了時刻を入力してください。"
+    }
+  ],
+  "tgL6QEjmq+ArASFk": [
+    {
+      "type": 0,
+      "value": "パスワードを表示"
+    }
+  ],
+  "tjTPi9AKvehOhky2": [
+    {
+      "type": 0,
+      "value": "通知を "
+    },
+    {
+      "type": 5,
+      "value": "notificationEnabled",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "オフ"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "オン"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " にする権限がありません"
+    }
+  ],
+  "tkiwQDxWLcFxV5u0": [
+    {
+      "type": 0,
+      "value": "Volume"
+    }
+  ],
+  "tw9ulrSgegYXHq69": [
+    {
+      "type": 0,
+      "value": "Match "
+    },
+    {
+      "type": 1,
+      "value": "current"
+    },
+    {
+      "type": 0,
+      "value": " of "
+    },
+    {
+      "type": 1,
+      "value": "total"
+    }
+  ],
+  "tznlZbNaiUJ1dPqb": [
+    {
+      "type": 0,
+      "value": "列"
+    }
+  ],
+  "u/zFB5AjGAysdLcT": [
+    {
+      "type": 0,
+      "value": "Copy the details and share them with your admin."
+    }
+  ],
+  "u0KgUM/9t1gS7DB9": [
+    {
+      "type": 0,
+      "value": "Filter Dependencies"
+    }
+  ],
+  "u55UYpLvXi//xGEn": [
+    {
+      "type": 0,
+      "value": "設定"
+    }
+  ],
+  "u5xmuzxNDovVbbQX": [
+    {
+      "type": 0,
+      "value": "CSV としてダウンロード"
+    }
+  ],
+  "uCbwlgMp2BNGzNro": [
+    {
+      "type": 0,
+      "value": "ピン留めを外す"
+    }
+  ],
+  "uDo0yY4voNQ3eiN7": [
+    {
+      "type": 0,
+      "value": "変更モード"
+    }
+  ],
+  "uLZU9AJNAIdoZ08c": [
+    {
+      "type": 0,
+      "value": "warning"
+    }
+  ],
+  "ut5dPv/qM9qMEW4a": [
+    {
+      "type": 0,
+      "value": "無効な構文です。"
+    }
+  ],
+  "uuhhc3nEZptwtV2E": [
+    {
+      "type": 0,
+      "value": "終了日時"
+    }
+  ],
+  "vEoSirMyZ5RMVdsR": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 時間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ],
+  "vJ/eXvQ9OL/qVOcs": [
+    {
+      "type": 0,
+      "value": "次の値以下:"
+    }
+  ],
+  "vJgZg+f1R9xi4Zoe": [
+    {
+      "type": 0,
+      "value": "Next"
+    }
+  ],
+  "vMt3ZRHwBods5xzM": [
+    {
+      "type": 0,
+      "value": "パスワードを非表示"
+    }
+  ],
+  "vN/5FvuU1Cfk1/Ep": [
+    {
+      "type": 0,
+      "value": "一致する候補が見つかりません。"
+    }
+  ],
+  "vbdg7YKUa68LiCw7": [
+    {
+      "type": 0,
+      "value": "End time must be after start time."
+    }
+  ],
+  "vkJWCbh6wLAsnHfT": [
+    {
+      "type": 0,
+      "value": "Built with"
+    }
+  ],
+  "vwffeGCYNgFdxEUq": [
+    {
+      "type": 0,
+      "value": "タイムスタンプ"
+    }
+  ],
+  "w/f62+ZHs9Un5tK0": [
+    {
+      "type": 0,
+      "value": "(error)"
+    }
+  ],
+  "wJb5aQ8q06TidoIt": [
+    {
+      "type": 0,
+      "value": "オプションをさらに表示します"
+    }
+  ],
+  "wa4ct2vRPvqd0Uif": [
+    {
+      "type": 1,
+      "value": "prefix"
+    },
+    {
+      "type": 0,
+      "value": "ミリ秒"
+    }
+  ],
+  "wjx6xe/Gmj4hLt7b": [
+    {
+      "type": 0,
+      "value": "パン モード"
+    }
+  ],
+  "ws6glsra1rg4EAIA": [
+    {
+      "type": 1,
+      "value": "severity"
+    },
+    {
+      "type": 0,
+      "value": " on line "
+    },
+    {
+      "type": 1,
+      "value": "line"
+    },
+    {
+      "type": 0,
+      "value": ": "
+    },
+    {
+      "type": 1,
+      "value": "message"
+    }
+  ],
+  "wtm8N4m0hully7OX": [
+    {
+      "type": 0,
+      "value": "空の値"
+    }
+  ],
+  "x2bmZRg98b0KodlW": [
+    {
+      "type": 0,
+      "value": "ページ階層"
+    }
+  ],
+  "x3FIfL6niq1MnAvw": [
+    {
+      "type": 0,
+      "value": "欠落している権限をコピーして管理者と共有します"
+    }
+  ],
+  "xFQW8ah15nm5hjiI": [
+    {
+      "type": 0,
+      "value": "選択済み"
+    }
+  ],
+  "xHrhU3DP4e0nge7c": [
+    {
+      "type": 0,
+      "value": "ヘルプ"
+    }
+  ],
+  "xRve2qkedJdro00f": [
+    {
+      "type": 0,
+      "value": "Row actions"
+    }
+  ],
+  "xT9m8P49DpYVR1pg": [
+    {
+      "type": 0,
+      "value": "TypeScript の追加"
+    }
+  ],
+  "xbU5jK0wrKGToY9R": [
+    {
+      "type": 0,
+      "value": "No results found"
+    }
+  ],
+  "xcSpnebtYoA/jEJY": [
+    {
+      "type": 0,
+      "value": "メールの追加"
+    }
+  ],
+  "xdkxTaZ7SAkarRJX": [
+    {
+      "type": 0,
+      "value": "セグメント"
+    }
+  ],
+  "xjwKUTJHlmtA/V/n": [
+    {
+      "type": 0,
+      "value": "電話番号の追加"
+    }
+  ],
+  "y6H3/FIKpIl6XBRA": [
+    {
+      "type": 0,
+      "value": "ロケーション"
+    }
+  ],
+  "yBhOkj2PXbKg2Tjc": [
+    {
+      "type": 0,
+      "value": "フィルター値が無効です。このキーでは値として実行時間のみがサポートされています。例: '200ms'"
+    }
+  ],
+  "yC1bRKMw8Xw4GEtr": [
+    {
+      "type": 0,
+      "value": "Code editor actions"
+    }
+  ],
+  "yJBeHrP0dl2h/JIx": [
+    {
+      "type": 0,
+      "value": "一致するセグメントが見つかりませんでした。セグメントの値を探す場合、まずセグメントを選択してください。"
+    }
+  ],
+  "yPyYlsR+hsqOmSHt": [
+    {
+      "type": 0,
+      "value": "エラー"
+    }
+  ],
+  "yRTBrmuLLhgDytyG": [
+    {
+      "type": 0,
+      "value": "行の折り返しを有効にする"
+    }
+  ],
+  "ylJmm6+j/5dJx8/1": [
+    {
+      "type": 0,
+      "value": "通知が "
+    },
+    {
+      "type": 5,
+      "value": "notificationEnabled",
+      "options": {
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "オン"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "オフ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " になりました"
+    }
+  ],
+  "ymTPa3UIE2oxpoEr": [
+    {
+      "type": 0,
+      "value": "オープンして、さらにリソースを探す"
+    }
+  ],
+  "z5mvEP+L6qdzvis2": [
+    {
+      "type": 0,
+      "value": "ダウン"
+    }
+  ],
+  "z6Q99ieTCziyTcca": [
+    {
+      "type": 0,
+      "value": "左にピン留め"
+    }
+  ],
+  "zLA30VcDL/QQmTUA": [
+    {
+      "type": 0,
+      "value": "Missing permissions: "
+    },
+    {
+      "type": 1,
+      "value": "permissions"
+    }
+  ],
+  "zX4r/Y8gJL1C8+5e": [
+    {
+      "type": 0,
+      "value": "日時範囲をクリア"
+    }
+  ],
+  "zZkRTFU9Br/4kme+": [
+    {
+      "type": 0,
+      "value": "Some selected segment values are no longer available and will be removed upon selection."
+    }
+  ],
+  "ze9ge3utWHDeoMzu": [
+    {
+      "type": 0,
+      "value": "Isolate segment"
+    }
+  ],
+  "zfKEZtJ/4td7IY+1": [
+    {
+      "type": 0,
+      "value": "リセット"
+    }
+  ],
+  "zgKXUXme0dmc9SsD": [
+    {
+      "type": 0,
+      "value": "降順として追加"
+    }
+  ],
+  "znJQdrgHo0UbGJLV": [
+    {
+      "type": 5,
+      "value": "prefix",
+      "options": {
+        "previous": {
+          "value": [
+            {
+              "type": 0,
+              "value": "前の"
+            }
+          ]
+        },
+        "next": {
+          "value": [
+            {
+              "type": 0,
+              "value": "次の"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ここ"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 6,
+      "value": "amount",
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " 秒間"
+            }
+          ]
+        }
+      },
+      "offset": 0,
+      "pluralType": "cardinal"
+    }
+  ]
+}
