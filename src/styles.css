@@ -696,3 +696,38 @@ body {
 .win-name {
   font-weight: 700;
 }
+
+/* ---------- crash report ---------- */
+.crash {
+  margin: 16px 0;
+  padding: 16px;
+  border-radius: 10px;
+  background: var(--surface);
+  border: 1px solid var(--critical);
+  color: var(--fg);
+}
+.crash-title {
+  font-weight: 800;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.crash-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 11px;
+  color: #fca5a5;
+  max-height: 50vh;
+  overflow: auto;
+}
+.crash-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.crash-actions button {
+  background: var(--sub);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 12px;
+}

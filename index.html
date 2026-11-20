@@ -24,9 +24,33 @@
     }
   };
 </script>
+<script src="./polyfills.js"></script>
 </head>
 <body>
 <div id="root"></div>
+<script>
+  // Last-resort error display: if the app dies and the page goes blank, show why.
+  (function () {
+    function show(msg) {
+      setTimeout(function () {
+        var root = document.getElementById('root');
+        if (root && root.innerText.trim().length > 0) return;
+        if (document.getElementById('fatal')) return;
+        var d = document.createElement('pre');
+        d.id = 'fatal';
+        d.style.cssText = 'white-space:pre-wrap;word-break:break-word;color:#fca5a5;background:#1e1e27;padding:16px;margin:16px;border-radius:8px;font:12px/1.4 monospace';
+        d.textContent = 'FoosBots crashed:\n\n' + msg + '\n\n' + navigator.userAgent;
+        document.body.appendChild(d);
+      }, 50);
+    }
+    window.addEventListener('error', function (e) {
+      show((e.error && e.error.stack) || e.message || String(e));
+    });
+    window.addEventListener('unhandledrejection', function (e) {
+      show((e.reason && e.reason.stack) || String(e.reason));
+    });
+  })();
+</script>
 <script type="module" src="/src/main.tsx"></script>
 </body>
 </html>

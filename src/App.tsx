@@ -4,6 +4,7 @@ import { Button } from '@dynatrace/strato-components/buttons';
 import { PlayTab } from './ui/PlayTab';
 import { BotsTab } from './ui/BotsTab';
 import { RanksTab } from './ui/RanksTab';
+import { ErrorBoundary } from './ui/ErrorBoundary';
 import { setPrefs, useStore } from './game/store';
 import { setMuted, unlockAudio } from './game/audio';
 
@@ -35,17 +36,23 @@ export function App() {
         <Tabs selectedIndex={tab} onChange={setTab}>
           <Tab title="Play" keepMounted>
             <div className="tab-pad">
-              <PlayTab />
+              <ErrorBoundary label="PlayTab">
+                <PlayTab />
+              </ErrorBoundary>
             </div>
           </Tab>
           <Tab title="Bots">
             <div className="tab-pad">
-              <BotsTab />
+              <ErrorBoundary label="BotsTab">
+                <BotsTab />
+              </ErrorBoundary>
             </div>
           </Tab>
           <Tab title="Ranks">
             <div className="tab-pad">
-              <RanksTab />
+              <ErrorBoundary label="RanksTab">
+                <RanksTab />
+              </ErrorBoundary>
             </div>
           </Tab>
         </Tabs>
