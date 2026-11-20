@@ -43,6 +43,13 @@
         document.body.appendChild(d);
       }, 50);
     }
+    // If the app never mounts (e.g. Pages is serving the raw source instead of the build), say so.
+    setTimeout(function () {
+      var root = document.getElementById('root');
+      if (root && root.children.length === 0 && !document.getElementById('fatal')) {
+        show('The app did not start.\nIf this is GitHub Pages: Settings → Pages → Source must be "GitHub Actions" (not "Deploy from a branch").');
+      }
+    }, 6000);
     window.addEventListener('error', function (e) {
       show((e.error && e.error.stack) || e.message || String(e));
     });
