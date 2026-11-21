@@ -1,6 +1,7 @@
 import { useSyncExternalStore } from 'react';
 import type { Bot, BotRecord, MatchResult, MatchSettings } from './types';
 import { DEFAULT_BOTS } from './defaults';
+import { fixBots, fixHistory, fixRecords, isObj, num, oneOf } from './sanitize';
 
 export type Speed = 1 | 2 | 4 | 8;
 
@@ -36,15 +37,37 @@ function initial(): State {
 function load(): State {
   try {
     const raw = localStorage.getItem(KEY);
-    if (raw) {
-      const s = JSON.parse(raw) as State;
-      const init = initial();
-      return { ...init, ...s, prefs: { ...init.prefs, ...s.prefs, match: { ...init.prefs.match, ...s.prefs?.match } } };
-    }
+    if (raw) return repair(JSON.parse(raw));
   } catch {
     /* ignore */
   }
   return initial();
+}
+
+/** Rebuilds a valid State from whatever was stored (older versions, other apps on the same origin, ...). */
+function repair(raw: unknown): State {
+  const init = initial();
+  if (!isObj(raw)) return init;
+  const bots = fixBots(raw.bots);
+  const ids = new Set(bots.map((b) => b.id));
+  const p = isObj(raw.prefs) ? raw.prefs : {};
+  const m = isObj(p.match) ? p.match : {};
+  let goalsToWin = Math.max(0, Math.min(99, Math.round(num(m.goalsToWin, init.prefs.match.goalsToWin))));
+  const timeLimit = Math.max(0, Math.min(3600, Math.round(num(m.timeLimit, init.prefs.match.timeLimit))));
+  if (goalsToWin === 0 && timeLimit === 0) goalsToWin = 5;
+  return {
+    bots,
+    records: fixRecords(raw.records, ids),
+    history: fixHistory(raw.history, ids),
+    prefs: {
+      speed: oneOf(p.speed, [1, 2, 4, 8] as Speed[], 1),
+      instant: p.instant === true,
+      auto: p.auto === true,
+      muted: p.muted === true,
+      match: { goalsToWin, timeLimit },
+    },
+    currentBot: typeof raw.currentBot === 'string' && ids.has(raw.currentBot) ? raw.currentBot : bots[0].id,
+  };
 }
 
 let state: State = load();
